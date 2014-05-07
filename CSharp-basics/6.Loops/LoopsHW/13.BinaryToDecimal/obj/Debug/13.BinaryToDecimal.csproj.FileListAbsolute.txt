@@ -1,0 +1,5 @@
+E:\Programming\SoftUni\CSharp-basics\6.Loops\LoopsHW\13.BinaryToDecimal\bin\Debug\13.BinaryToDecimal.exe.config
+E:\Programming\SoftUni\CSharp-basics\6.Loops\LoopsHW\13.BinaryToDecimal\bin\Debug\13.BinaryToDecimal.exe
+E:\Programming\SoftUni\CSharp-basics\6.Loops\LoopsHW\13.BinaryToDecimal\bin\Debug\13.BinaryToDecimal.pdb
+E:\Programming\SoftUni\CSharp-basics\6.Loops\LoopsHW\13.BinaryToDecimal\obj\Debug\13.BinaryToDecimal.exe
+E:\Programming\SoftUni\CSharp-basics\6.Loops\LoopsHW\13.BinaryToDecimal\obj\Debug\13.BinaryToDecimal.pdb

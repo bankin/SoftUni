@@ -1,0 +1,5 @@
+E:\Programming\SoftUni\CSharp-basics\3.OperatorsAndExpressions\OperatorsAndExpressionsHW\15.BitExchange\bin\Debug\15.BitExchange.exe.config
+E:\Programming\SoftUni\CSharp-basics\3.OperatorsAndExpressions\OperatorsAndExpressionsHW\15.BitExchange\bin\Debug\15.BitExchange.exe
+E:\Programming\SoftUni\CSharp-basics\3.OperatorsAndExpressions\OperatorsAndExpressionsHW\15.BitExchange\bin\Debug\15.BitExchange.pdb
+E:\Programming\SoftUni\CSharp-basics\3.OperatorsAndExpressions\OperatorsAndExpressionsHW\15.BitExchange\obj\Debug\15.BitExchange.exe
+E:\Programming\SoftUni\CSharp-basics\3.OperatorsAndExpressions\OperatorsAndExpressionsHW\15.BitExchange\obj\Debug\15.BitExchange.pdb

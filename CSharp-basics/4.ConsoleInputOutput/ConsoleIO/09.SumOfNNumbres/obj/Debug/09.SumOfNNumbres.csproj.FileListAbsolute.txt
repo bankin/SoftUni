@@ -1,0 +1,5 @@
+E:\Programming\SoftUni\CSharp-basics\4.ConsoleInputOutput\ConsoleIO\09.SumOfNNumbres\bin\Debug\09.SumOfNNumbres.exe.config
+E:\Programming\SoftUni\CSharp-basics\4.ConsoleInputOutput\ConsoleIO\09.SumOfNNumbres\bin\Debug\09.SumOfNNumbres.exe
+E:\Programming\SoftUni\CSharp-basics\4.ConsoleInputOutput\ConsoleIO\09.SumOfNNumbres\bin\Debug\09.SumOfNNumbres.pdb
+E:\Programming\SoftUni\CSharp-basics\4.ConsoleInputOutput\ConsoleIO\09.SumOfNNumbres\obj\Debug\09.SumOfNNumbres.exe
+E:\Programming\SoftUni\CSharp-basics\4.ConsoleInputOutput\ConsoleIO\09.SumOfNNumbres\obj\Debug\09.SumOfNNumbres.pdb

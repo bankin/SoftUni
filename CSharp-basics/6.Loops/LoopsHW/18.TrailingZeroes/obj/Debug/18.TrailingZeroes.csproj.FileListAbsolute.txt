@@ -1,0 +1,5 @@
+E:\Programming\SoftUni\CSharp-basics\6.Loops\LoopsHW\18.TrailingZeroes\bin\Debug\18.TrailingZeroes.exe.config
+E:\Programming\SoftUni\CSharp-basics\6.Loops\LoopsHW\18.TrailingZeroes\bin\Debug\18.TrailingZeroes.exe
+E:\Programming\SoftUni\CSharp-basics\6.Loops\LoopsHW\18.TrailingZeroes\bin\Debug\18.TrailingZeroes.pdb
+E:\Programming\SoftUni\CSharp-basics\6.Loops\LoopsHW\18.TrailingZeroes\obj\Debug\18.TrailingZeroes.exe
+E:\Programming\SoftUni\CSharp-basics\6.Loops\LoopsHW\18.TrailingZeroes\obj\Debug\18.TrailingZeroes.pdb

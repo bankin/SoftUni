@@ -1,0 +1,5 @@
+E:\Programming\SoftUni\CSharp-basics\6.Loops\LoopsHW\05.CalculateSum\bin\Debug\05.CalculateSum.exe.config
+E:\Programming\SoftUni\CSharp-basics\6.Loops\LoopsHW\05.CalculateSum\bin\Debug\05.CalculateSum.exe
+E:\Programming\SoftUni\CSharp-basics\6.Loops\LoopsHW\05.CalculateSum\bin\Debug\05.CalculateSum.pdb
+E:\Programming\SoftUni\CSharp-basics\6.Loops\LoopsHW\05.CalculateSum\obj\Debug\05.CalculateSum.exe
+E:\Programming\SoftUni\CSharp-basics\6.Loops\LoopsHW\05.CalculateSum\obj\Debug\05.CalculateSum.pdb

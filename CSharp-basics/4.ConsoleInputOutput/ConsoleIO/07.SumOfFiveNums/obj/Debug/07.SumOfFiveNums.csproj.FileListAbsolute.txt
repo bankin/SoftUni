@@ -1,0 +1,5 @@
+E:\Programming\SoftUni\CSharp-basics\4.ConsoleInputOutput\ConsoleIO\07.SumOfFiveNums\bin\Debug\07.SumOfFiveNums.exe.config
+E:\Programming\SoftUni\CSharp-basics\4.ConsoleInputOutput\ConsoleIO\07.SumOfFiveNums\bin\Debug\07.SumOfFiveNums.exe
+E:\Programming\SoftUni\CSharp-basics\4.ConsoleInputOutput\ConsoleIO\07.SumOfFiveNums\bin\Debug\07.SumOfFiveNums.pdb
+E:\Programming\SoftUni\CSharp-basics\4.ConsoleInputOutput\ConsoleIO\07.SumOfFiveNums\obj\Debug\07.SumOfFiveNums.exe
+E:\Programming\SoftUni\CSharp-basics\4.ConsoleInputOutput\ConsoleIO\07.SumOfFiveNums\obj\Debug\07.SumOfFiveNums.pdb

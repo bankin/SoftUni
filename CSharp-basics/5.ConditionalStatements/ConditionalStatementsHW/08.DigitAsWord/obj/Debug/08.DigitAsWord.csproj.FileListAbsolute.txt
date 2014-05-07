@@ -1,0 +1,1 @@
+E:\Programming\SoftUni\CSharp-basics\5.ConditionalStatements\ConditionalStatementsHW\08.DigitAsWord\bin\Debug\08.DigitAsWord.exe.config

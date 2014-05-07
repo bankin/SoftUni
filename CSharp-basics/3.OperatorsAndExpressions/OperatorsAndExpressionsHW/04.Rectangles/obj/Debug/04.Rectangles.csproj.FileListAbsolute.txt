@@ -1,0 +1,5 @@
+E:\Programming\SoftUni\CSharp-basics\3.OperatorsAndExpressions\OperatorsAndExpressionsHW\04.Rectangles\bin\Debug\04.Rectangles.exe.config
+E:\Programming\SoftUni\CSharp-basics\3.OperatorsAndExpressions\OperatorsAndExpressionsHW\04.Rectangles\bin\Debug\04.Rectangles.exe
+E:\Programming\SoftUni\CSharp-basics\3.OperatorsAndExpressions\OperatorsAndExpressionsHW\04.Rectangles\bin\Debug\04.Rectangles.pdb
+E:\Programming\SoftUni\CSharp-basics\3.OperatorsAndExpressions\OperatorsAndExpressionsHW\04.Rectangles\obj\Debug\04.Rectangles.exe
+E:\Programming\SoftUni\CSharp-basics\3.OperatorsAndExpressions\OperatorsAndExpressionsHW\04.Rectangles\obj\Debug\04.Rectangles.pdb

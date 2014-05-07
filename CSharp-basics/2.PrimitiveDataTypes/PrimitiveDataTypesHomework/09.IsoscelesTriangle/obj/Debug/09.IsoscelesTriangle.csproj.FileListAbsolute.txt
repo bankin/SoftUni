@@ -1,0 +1,6 @@
+F:\Programming\SoftUni\CSharp-basics\2.PrimitiveDataTypes\PrimitiveDataTypesHomework\09.IsoscelesTriangle\bin\Debug\09.IsoscelesTriangle.exe.config
+F:\Programming\SoftUni\CSharp-basics\2.PrimitiveDataTypes\PrimitiveDataTypesHomework\09.IsoscelesTriangle\bin\Debug\09.IsoscelesTriangle.exe
+F:\Programming\SoftUni\CSharp-basics\2.PrimitiveDataTypes\PrimitiveDataTypesHomework\09.IsoscelesTriangle\bin\Debug\09.IsoscelesTriangle.pdb
+F:\Programming\SoftUni\CSharp-basics\2.PrimitiveDataTypes\PrimitiveDataTypesHomework\09.IsoscelesTriangle\obj\Debug\09.IsoscelesTriangle.exe
+F:\Programming\SoftUni\CSharp-basics\2.PrimitiveDataTypes\PrimitiveDataTypesHomework\09.IsoscelesTriangle\obj\Debug\09.IsoscelesTriangle.pdb
+F:\Programming\SoftUni\CSharp-basics\2.PrimitiveDataTypes\PrimitiveDataTypesHomework\09.IsoscelesTriangle\obj\Debug\09.IsoscelesTriangle.csprojResolveAssemblyReference.cache

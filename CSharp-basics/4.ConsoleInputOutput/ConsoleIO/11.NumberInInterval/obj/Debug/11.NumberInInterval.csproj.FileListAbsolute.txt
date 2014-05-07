@@ -1,0 +1,5 @@
+E:\Programming\SoftUni\CSharp-basics\4.ConsoleInputOutput\ConsoleIO\11.NumberInInterval\bin\Debug\11.NumberInInterval.exe.config
+E:\Programming\SoftUni\CSharp-basics\4.ConsoleInputOutput\ConsoleIO\11.NumberInInterval\bin\Debug\11.NumberInInterval.exe
+E:\Programming\SoftUni\CSharp-basics\4.ConsoleInputOutput\ConsoleIO\11.NumberInInterval\bin\Debug\11.NumberInInterval.pdb
+E:\Programming\SoftUni\CSharp-basics\4.ConsoleInputOutput\ConsoleIO\11.NumberInInterval\obj\Debug\11.NumberInInterval.exe
+E:\Programming\SoftUni\CSharp-basics\4.ConsoleInputOutput\ConsoleIO\11.NumberInInterval\obj\Debug\11.NumberInInterval.pdb

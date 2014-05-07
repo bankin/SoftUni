@@ -1,0 +1,1 @@
+E:\Programming\SoftUni\CSharp-basics\6.Loops\LoopsHW\15.HexToDecimal\bin\Debug\15.HexToDecimal.exe.config

@@ -1,0 +1,6 @@
+E:\Programming\SoftUni\CSharp-basics\3.OperatorsAndExpressions\OperatorsAndExpressionsHW\14.ModifyBitAtGivenPosition\bin\Debug\14.ModifyBitAtGivenPosition.exe.config
+E:\Programming\SoftUni\CSharp-basics\3.OperatorsAndExpressions\OperatorsAndExpressionsHW\14.ModifyBitAtGivenPosition\bin\Debug\14.ModifyBitAtGivenPosition.exe
+E:\Programming\SoftUni\CSharp-basics\3.OperatorsAndExpressions\OperatorsAndExpressionsHW\14.ModifyBitAtGivenPosition\bin\Debug\14.ModifyBitAtGivenPosition.pdb
+E:\Programming\SoftUni\CSharp-basics\3.OperatorsAndExpressions\OperatorsAndExpressionsHW\14.ModifyBitAtGivenPosition\obj\Debug\14.ModifyBitAtGivenPosition.csprojResolveAssemblyReference.cache
+E:\Programming\SoftUni\CSharp-basics\3.OperatorsAndExpressions\OperatorsAndExpressionsHW\14.ModifyBitAtGivenPosition\obj\Debug\14.ModifyBitAtGivenPosition.exe
+E:\Programming\SoftUni\CSharp-basics\3.OperatorsAndExpressions\OperatorsAndExpressionsHW\14.ModifyBitAtGivenPosition\obj\Debug\14.ModifyBitAtGivenPosition.pdb

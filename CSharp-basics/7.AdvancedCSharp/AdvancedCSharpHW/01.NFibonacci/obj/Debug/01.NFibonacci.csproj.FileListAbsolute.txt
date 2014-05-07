@@ -1,0 +1,6 @@
+E:\Programming\SoftUni\CSharp-basics\7.AdvancedCSharp\AdvancedCSharpHW\01.NFibonacci\bin\Debug\01.NFibonacci.exe.config
+E:\Programming\SoftUni\CSharp-basics\7.AdvancedCSharp\AdvancedCSharpHW\01.NFibonacci\obj\Debug\01.NFibonacci.csprojResolveAssemblyReference.cache
+E:\Programming\SoftUni\CSharp-basics\7.AdvancedCSharp\AdvancedCSharpHW\01.NFibonacci\bin\Debug\01.NFibonacci.exe
+E:\Programming\SoftUni\CSharp-basics\7.AdvancedCSharp\AdvancedCSharpHW\01.NFibonacci\bin\Debug\01.NFibonacci.pdb
+E:\Programming\SoftUni\CSharp-basics\7.AdvancedCSharp\AdvancedCSharpHW\01.NFibonacci\obj\Debug\01.NFibonacci.exe
+E:\Programming\SoftUni\CSharp-basics\7.AdvancedCSharp\AdvancedCSharpHW\01.NFibonacci\obj\Debug\01.NFibonacci.pdb

@@ -1,0 +1,5 @@
+E:\Programming\SoftUni\CSharp-basics\7.AdvancedCSharp\AdvancedCSharpHW\15.ExtractURLs\bin\Debug\15.ExtractURLs.exe.config
+E:\Programming\SoftUni\CSharp-basics\7.AdvancedCSharp\AdvancedCSharpHW\15.ExtractURLs\bin\Debug\15.ExtractURLs.exe
+E:\Programming\SoftUni\CSharp-basics\7.AdvancedCSharp\AdvancedCSharpHW\15.ExtractURLs\bin\Debug\15.ExtractURLs.pdb
+E:\Programming\SoftUni\CSharp-basics\7.AdvancedCSharp\AdvancedCSharpHW\15.ExtractURLs\obj\Debug\15.ExtractURLs.exe
+E:\Programming\SoftUni\CSharp-basics\7.AdvancedCSharp\AdvancedCSharpHW\15.ExtractURLs\obj\Debug\15.ExtractURLs.pdb

@@ -1,0 +1,5 @@
+F:\Programming\SoftUni\CSharp-basics\2.PrimitiveDataTypes\PrimitiveDataTypesHomework\10.ExchangeValues\bin\Debug\10.ExchangeValues.exe.config
+F:\Programming\SoftUni\CSharp-basics\2.PrimitiveDataTypes\PrimitiveDataTypesHomework\10.ExchangeValues\bin\Debug\10.ExchangeValues.exe
+F:\Programming\SoftUni\CSharp-basics\2.PrimitiveDataTypes\PrimitiveDataTypesHomework\10.ExchangeValues\bin\Debug\10.ExchangeValues.pdb
+F:\Programming\SoftUni\CSharp-basics\2.PrimitiveDataTypes\PrimitiveDataTypesHomework\10.ExchangeValues\obj\Debug\10.ExchangeValues.exe
+F:\Programming\SoftUni\CSharp-basics\2.PrimitiveDataTypes\PrimitiveDataTypesHomework\10.ExchangeValues\obj\Debug\10.ExchangeValues.pdb

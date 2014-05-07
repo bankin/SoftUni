@@ -1,0 +1,8 @@
+F:\Programming\MS VS\ProjectGroups\IntroductionHomework\14.CurrentDateTime\bin\Debug\14.CurrentDateTime.exe.config
+F:\Programming\MS VS\ProjectGroups\IntroductionHomework\14.CurrentDateTime\bin\Debug\14.CurrentDateTime.exe
+F:\Programming\MS VS\ProjectGroups\IntroductionHomework\14.CurrentDateTime\bin\Debug\14.CurrentDateTime.pdb
+F:\Programming\MS VS\ProjectGroups\IntroductionHomework\14.CurrentDateTime\obj\Debug\14.CurrentDateTime.exe
+F:\Programming\MS VS\ProjectGroups\IntroductionHomework\14.CurrentDateTime\obj\Debug\14.CurrentDateTime.pdb
+E:\Programming\SoftUni\CSharp-basics\1.Introduction\IntroductionHomework\14.CurrentDateTime\bin\Debug\14.CurrentDateTime.exe.config
+E:\Programming\SoftUni\CSharp-basics\1.Introduction\IntroductionHomework\14.CurrentDateTime\obj\Debug\14.CurrentDateTime.exe
+E:\Programming\SoftUni\CSharp-basics\1.Introduction\IntroductionHomework\14.CurrentDateTime\obj\Debug\14.CurrentDateTime.pdb

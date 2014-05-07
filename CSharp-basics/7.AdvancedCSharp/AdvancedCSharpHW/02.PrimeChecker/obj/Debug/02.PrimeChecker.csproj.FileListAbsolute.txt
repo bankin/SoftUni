@@ -1,0 +1,6 @@
+E:\Programming\SoftUni\CSharp-basics\7.AdvancedCSharp\AdvancedCSharpHW\02.PrimeChecker\bin\Debug\02.PrimeChecker.exe.config
+E:\Programming\SoftUni\CSharp-basics\7.AdvancedCSharp\AdvancedCSharpHW\02.PrimeChecker\bin\Debug\02.PrimeChecker.exe
+E:\Programming\SoftUni\CSharp-basics\7.AdvancedCSharp\AdvancedCSharpHW\02.PrimeChecker\bin\Debug\02.PrimeChecker.pdb
+E:\Programming\SoftUni\CSharp-basics\7.AdvancedCSharp\AdvancedCSharpHW\02.PrimeChecker\obj\Debug\02.PrimeChecker.exe
+E:\Programming\SoftUni\CSharp-basics\7.AdvancedCSharp\AdvancedCSharpHW\02.PrimeChecker\obj\Debug\02.PrimeChecker.pdb
+E:\Programming\SoftUni\CSharp-basics\7.AdvancedCSharp\AdvancedCSharpHW\02.PrimeChecker\obj\Debug\02.PrimeChecker.csprojResolveAssemblyReference.cache

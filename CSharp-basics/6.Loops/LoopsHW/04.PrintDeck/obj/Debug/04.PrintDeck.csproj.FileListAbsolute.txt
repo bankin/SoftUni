@@ -1,0 +1,5 @@
+E:\Programming\SoftUni\CSharp-basics\6.Loops\LoopsHW\04.PrintDeck\bin\Debug\04.PrintDeck.exe.config
+E:\Programming\SoftUni\CSharp-basics\6.Loops\LoopsHW\04.PrintDeck\bin\Debug\04.PrintDeck.exe
+E:\Programming\SoftUni\CSharp-basics\6.Loops\LoopsHW\04.PrintDeck\bin\Debug\04.PrintDeck.pdb
+E:\Programming\SoftUni\CSharp-basics\6.Loops\LoopsHW\04.PrintDeck\obj\Debug\04.PrintDeck.exe
+E:\Programming\SoftUni\CSharp-basics\6.Loops\LoopsHW\04.PrintDeck\obj\Debug\04.PrintDeck.pdb

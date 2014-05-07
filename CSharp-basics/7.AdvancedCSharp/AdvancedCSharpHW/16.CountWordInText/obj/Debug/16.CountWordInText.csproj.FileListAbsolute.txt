@@ -1,0 +1,5 @@
+E:\Programming\SoftUni\CSharp-basics\7.AdvancedCSharp\AdvancedCSharpHW\16.CountWordInText\bin\Debug\16.CountWordInText.exe.config
+E:\Programming\SoftUni\CSharp-basics\7.AdvancedCSharp\AdvancedCSharpHW\16.CountWordInText\bin\Debug\16.CountWordInText.exe
+E:\Programming\SoftUni\CSharp-basics\7.AdvancedCSharp\AdvancedCSharpHW\16.CountWordInText\bin\Debug\16.CountWordInText.pdb
+E:\Programming\SoftUni\CSharp-basics\7.AdvancedCSharp\AdvancedCSharpHW\16.CountWordInText\obj\Debug\16.CountWordInText.exe
+E:\Programming\SoftUni\CSharp-basics\7.AdvancedCSharp\AdvancedCSharpHW\16.CountWordInText\obj\Debug\16.CountWordInText.pdb

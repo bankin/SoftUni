@@ -1,0 +1,1 @@
+E:\Programming\SoftUni\CSharp-basics\5.ConditionalStatements\ConditionalStatementsHW\02.BonusScore\bin\Debug\02.BonusScore.exe.config

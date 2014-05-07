@@ -1,0 +1,5 @@
+E:\Programming\SoftUni\CSharp-basics\7.AdvancedCSharp\AdvancedCSharpHW\07.MatrixOfPalindromes\bin\Debug\07.MatrixOfPalindromes.exe.config
+E:\Programming\SoftUni\CSharp-basics\7.AdvancedCSharp\AdvancedCSharpHW\07.MatrixOfPalindromes\bin\Debug\07.MatrixOfPalindromes.exe
+E:\Programming\SoftUni\CSharp-basics\7.AdvancedCSharp\AdvancedCSharpHW\07.MatrixOfPalindromes\bin\Debug\07.MatrixOfPalindromes.pdb
+E:\Programming\SoftUni\CSharp-basics\7.AdvancedCSharp\AdvancedCSharpHW\07.MatrixOfPalindromes\obj\Debug\07.MatrixOfPalindromes.exe
+E:\Programming\SoftUni\CSharp-basics\7.AdvancedCSharp\AdvancedCSharpHW\07.MatrixOfPalindromes\obj\Debug\07.MatrixOfPalindromes.pdb

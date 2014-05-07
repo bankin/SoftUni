@@ -1,0 +1,5 @@
+E:\Programming\SoftUni\CSharp-basics\5.ConditionalStatements\ConditionalStatementsHW\04.MultiplicationSign\bin\Debug\04.MultiplicationSign.exe.config
+E:\Programming\SoftUni\CSharp-basics\5.ConditionalStatements\ConditionalStatementsHW\04.MultiplicationSign\bin\Debug\04.MultiplicationSign.exe
+E:\Programming\SoftUni\CSharp-basics\5.ConditionalStatements\ConditionalStatementsHW\04.MultiplicationSign\bin\Debug\04.MultiplicationSign.pdb
+E:\Programming\SoftUni\CSharp-basics\5.ConditionalStatements\ConditionalStatementsHW\04.MultiplicationSign\obj\Debug\04.MultiplicationSign.exe
+E:\Programming\SoftUni\CSharp-basics\5.ConditionalStatements\ConditionalStatementsHW\04.MultiplicationSign\obj\Debug\04.MultiplicationSign.pdb

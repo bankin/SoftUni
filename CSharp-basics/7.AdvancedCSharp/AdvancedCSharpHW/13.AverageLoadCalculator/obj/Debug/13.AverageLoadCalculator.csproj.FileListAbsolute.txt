@@ -1,0 +1,6 @@
+E:\Programming\SoftUni\CSharp-basics\7.AdvancedCSharp\AdvancedCSharpHW\13.AverageLoadCalculator\bin\Debug\13.AverageLoadCalculator.exe.config
+E:\Programming\SoftUni\CSharp-basics\7.AdvancedCSharp\AdvancedCSharpHW\13.AverageLoadCalculator\bin\Debug\13.AverageLoadCalculator.exe
+E:\Programming\SoftUni\CSharp-basics\7.AdvancedCSharp\AdvancedCSharpHW\13.AverageLoadCalculator\bin\Debug\13.AverageLoadCalculator.pdb
+E:\Programming\SoftUni\CSharp-basics\7.AdvancedCSharp\AdvancedCSharpHW\13.AverageLoadCalculator\obj\Debug\13.AverageLoadCalculator.csprojResolveAssemblyReference.cache
+E:\Programming\SoftUni\CSharp-basics\7.AdvancedCSharp\AdvancedCSharpHW\13.AverageLoadCalculator\obj\Debug\13.AverageLoadCalculator.exe
+E:\Programming\SoftUni\CSharp-basics\7.AdvancedCSharp\AdvancedCSharpHW\13.AverageLoadCalculator\obj\Debug\13.AverageLoadCalculator.pdb

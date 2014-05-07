@@ -1,0 +1,6 @@
+F:\Programming\MS VS\ProjectGroups\IntroductionHomework\09.PrintSequence\bin\Debug\09.PrintSequence.exe.config
+F:\Programming\MS VS\ProjectGroups\IntroductionHomework\09.PrintSequence\bin\Debug\09.PrintSequence.exe
+F:\Programming\MS VS\ProjectGroups\IntroductionHomework\09.PrintSequence\bin\Debug\09.PrintSequence.pdb
+F:\Programming\MS VS\ProjectGroups\IntroductionHomework\09.PrintSequence\obj\Debug\09.PrintSequence.csprojResolveAssemblyReference.cache
+F:\Programming\MS VS\ProjectGroups\IntroductionHomework\09.PrintSequence\obj\Debug\09.PrintSequence.exe
+F:\Programming\MS VS\ProjectGroups\IntroductionHomework\09.PrintSequence\obj\Debug\09.PrintSequence.pdb

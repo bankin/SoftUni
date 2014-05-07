@@ -1,0 +1,5 @@
+E:\Programming\SoftUni\CSharp-basics\7.AdvancedCSharp\AdvancedCSharpHW\11.CountOfLetters\bin\Debug\11.CountOfLetters.exe.config
+E:\Programming\SoftUni\CSharp-basics\7.AdvancedCSharp\AdvancedCSharpHW\11.CountOfLetters\bin\Debug\11.CountOfLetters.exe
+E:\Programming\SoftUni\CSharp-basics\7.AdvancedCSharp\AdvancedCSharpHW\11.CountOfLetters\bin\Debug\11.CountOfLetters.pdb
+E:\Programming\SoftUni\CSharp-basics\7.AdvancedCSharp\AdvancedCSharpHW\11.CountOfLetters\obj\Debug\11.CountOfLetters.exe
+E:\Programming\SoftUni\CSharp-basics\7.AdvancedCSharp\AdvancedCSharpHW\11.CountOfLetters\obj\Debug\11.CountOfLetters.pdb

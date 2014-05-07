@@ -1,0 +1,5 @@
+E:\Programming\SoftUni\CSharp-basics\6.Loops\LoopsHW\12.RandomizeOneToN\bin\Debug\12.RandomizeOneToN.exe.config
+E:\Programming\SoftUni\CSharp-basics\6.Loops\LoopsHW\12.RandomizeOneToN\bin\Debug\12.RandomizeOneToN.exe
+E:\Programming\SoftUni\CSharp-basics\6.Loops\LoopsHW\12.RandomizeOneToN\bin\Debug\12.RandomizeOneToN.pdb
+E:\Programming\SoftUni\CSharp-basics\6.Loops\LoopsHW\12.RandomizeOneToN\obj\Debug\12.RandomizeOneToN.exe
+E:\Programming\SoftUni\CSharp-basics\6.Loops\LoopsHW\12.RandomizeOneToN\obj\Debug\12.RandomizeOneToN.pdb

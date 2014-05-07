@@ -1,0 +1,5 @@
+E:\Programming\SoftUni\CSharp-basics\CSharpBasics-Exam\CSharpBasics-Exam\BitRoller\bin\Debug\BitRoller.exe.config
+E:\Programming\SoftUni\CSharp-basics\CSharpBasics-Exam\CSharpBasics-Exam\BitRoller\bin\Debug\BitRoller.exe
+E:\Programming\SoftUni\CSharp-basics\CSharpBasics-Exam\CSharpBasics-Exam\BitRoller\bin\Debug\BitRoller.pdb
+E:\Programming\SoftUni\CSharp-basics\CSharpBasics-Exam\CSharpBasics-Exam\BitRoller\obj\Debug\BitRoller.exe
+E:\Programming\SoftUni\CSharp-basics\CSharpBasics-Exam\CSharpBasics-Exam\BitRoller\obj\Debug\BitRoller.pdb

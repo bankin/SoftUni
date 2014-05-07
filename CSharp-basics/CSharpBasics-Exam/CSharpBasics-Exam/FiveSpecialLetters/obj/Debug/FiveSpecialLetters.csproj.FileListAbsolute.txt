@@ -1,0 +1,5 @@
+E:\Programming\SoftUni\CSharp-basics\CSharpBasics-Exam\CSharpBasics-Exam\FiveSpecialLetters\bin\Debug\FiveSpecialLetters.exe.config
+E:\Programming\SoftUni\CSharp-basics\CSharpBasics-Exam\CSharpBasics-Exam\FiveSpecialLetters\bin\Debug\FiveSpecialLetters.exe
+E:\Programming\SoftUni\CSharp-basics\CSharpBasics-Exam\CSharpBasics-Exam\FiveSpecialLetters\bin\Debug\FiveSpecialLetters.pdb
+E:\Programming\SoftUni\CSharp-basics\CSharpBasics-Exam\CSharpBasics-Exam\FiveSpecialLetters\obj\Debug\FiveSpecialLetters.exe
+E:\Programming\SoftUni\CSharp-basics\CSharpBasics-Exam\CSharpBasics-Exam\FiveSpecialLetters\obj\Debug\FiveSpecialLetters.pdb

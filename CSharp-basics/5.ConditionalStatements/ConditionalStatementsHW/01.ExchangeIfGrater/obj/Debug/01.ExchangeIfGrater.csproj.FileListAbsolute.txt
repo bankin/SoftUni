@@ -1,0 +1,6 @@
+E:\Programming\SoftUni\CSharp-basics\5.ConditionalStatements\ConditionalStatementsHW\01.ExchangeIfGrater\bin\Debug\01.ExchangeIfGrater.exe.config
+E:\Programming\SoftUni\CSharp-basics\5.ConditionalStatements\ConditionalStatementsHW\01.ExchangeIfGrater\bin\Debug\01.ExchangeIfGrater.exe
+E:\Programming\SoftUni\CSharp-basics\5.ConditionalStatements\ConditionalStatementsHW\01.ExchangeIfGrater\bin\Debug\01.ExchangeIfGrater.pdb
+E:\Programming\SoftUni\CSharp-basics\5.ConditionalStatements\ConditionalStatementsHW\01.ExchangeIfGrater\obj\Debug\01.ExchangeIfGrater.csprojResolveAssemblyReference.cache
+E:\Programming\SoftUni\CSharp-basics\5.ConditionalStatements\ConditionalStatementsHW\01.ExchangeIfGrater\obj\Debug\01.ExchangeIfGrater.exe
+E:\Programming\SoftUni\CSharp-basics\5.ConditionalStatements\ConditionalStatementsHW\01.ExchangeIfGrater\obj\Debug\01.ExchangeIfGrater.pdb

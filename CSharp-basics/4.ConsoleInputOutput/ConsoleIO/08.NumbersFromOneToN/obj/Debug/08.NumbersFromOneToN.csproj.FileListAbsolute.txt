@@ -1,0 +1,1 @@
+E:\Programming\SoftUni\CSharp-basics\4.ConsoleInputOutput\ConsoleIO\08.NumbersFromOneToN\bin\Debug\08.NumbersFromOneToN.exe.config

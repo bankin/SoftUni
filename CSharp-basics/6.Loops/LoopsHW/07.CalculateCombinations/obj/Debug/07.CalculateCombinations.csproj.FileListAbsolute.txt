@@ -1,0 +1,5 @@
+E:\Programming\SoftUni\CSharp-basics\6.Loops\LoopsHW\07.CalculateCombinations\bin\Debug\07.CalculateCombinations.exe.config
+E:\Programming\SoftUni\CSharp-basics\6.Loops\LoopsHW\07.CalculateCombinations\bin\Debug\07.CalculateCombinations.exe
+E:\Programming\SoftUni\CSharp-basics\6.Loops\LoopsHW\07.CalculateCombinations\bin\Debug\07.CalculateCombinations.pdb
+E:\Programming\SoftUni\CSharp-basics\6.Loops\LoopsHW\07.CalculateCombinations\obj\Debug\07.CalculateCombinations.exe
+E:\Programming\SoftUni\CSharp-basics\6.Loops\LoopsHW\07.CalculateCombinations\obj\Debug\07.CalculateCombinations.pdb

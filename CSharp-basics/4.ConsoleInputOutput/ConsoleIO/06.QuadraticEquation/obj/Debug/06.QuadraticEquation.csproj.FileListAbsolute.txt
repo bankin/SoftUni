@@ -1,0 +1,5 @@
+E:\Programming\SoftUni\CSharp-basics\4.ConsoleInputOutput\ConsoleIO\06.QuadraticEquation\bin\Debug\06.QuadraticEquation.exe.config
+E:\Programming\SoftUni\CSharp-basics\4.ConsoleInputOutput\ConsoleIO\06.QuadraticEquation\bin\Debug\06.QuadraticEquation.exe
+E:\Programming\SoftUni\CSharp-basics\4.ConsoleInputOutput\ConsoleIO\06.QuadraticEquation\bin\Debug\06.QuadraticEquation.pdb
+E:\Programming\SoftUni\CSharp-basics\4.ConsoleInputOutput\ConsoleIO\06.QuadraticEquation\obj\Debug\06.QuadraticEquation.exe
+E:\Programming\SoftUni\CSharp-basics\4.ConsoleInputOutput\ConsoleIO\06.QuadraticEquation\obj\Debug\06.QuadraticEquation.pdb

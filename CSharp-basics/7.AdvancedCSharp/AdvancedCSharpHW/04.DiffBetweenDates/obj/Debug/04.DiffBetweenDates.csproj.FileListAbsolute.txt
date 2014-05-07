@@ -1,0 +1,5 @@
+E:\Programming\SoftUni\CSharp-basics\7.AdvancedCSharp\AdvancedCSharpHW\04.DiffBetweenDates\bin\Debug\04.DiffBetweenDates.exe.config
+E:\Programming\SoftUni\CSharp-basics\7.AdvancedCSharp\AdvancedCSharpHW\04.DiffBetweenDates\bin\Debug\04.DiffBetweenDates.exe
+E:\Programming\SoftUni\CSharp-basics\7.AdvancedCSharp\AdvancedCSharpHW\04.DiffBetweenDates\bin\Debug\04.DiffBetweenDates.pdb
+E:\Programming\SoftUni\CSharp-basics\7.AdvancedCSharp\AdvancedCSharpHW\04.DiffBetweenDates\obj\Debug\04.DiffBetweenDates.exe
+E:\Programming\SoftUni\CSharp-basics\7.AdvancedCSharp\AdvancedCSharpHW\04.DiffBetweenDates\obj\Debug\04.DiffBetweenDates.pdb

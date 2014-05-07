@@ -1,0 +1,6 @@
+E:\Programming\SoftUni\CSharp-basics\3.OperatorsAndExpressions\OperatorsAndExpressionsHW\07.PointInCircle\bin\Debug\07.PointInCircle.exe.config
+E:\Programming\SoftUni\CSharp-basics\3.OperatorsAndExpressions\OperatorsAndExpressionsHW\07.PointInCircle\obj\Debug\07.PointInCircle.csprojResolveAssemblyReference.cache
+E:\Programming\SoftUni\CSharp-basics\3.OperatorsAndExpressions\OperatorsAndExpressionsHW\07.PointInCircle\bin\Debug\07.PointInCircle.exe
+E:\Programming\SoftUni\CSharp-basics\3.OperatorsAndExpressions\OperatorsAndExpressionsHW\07.PointInCircle\bin\Debug\07.PointInCircle.pdb
+E:\Programming\SoftUni\CSharp-basics\3.OperatorsAndExpressions\OperatorsAndExpressionsHW\07.PointInCircle\obj\Debug\07.PointInCircle.exe
+E:\Programming\SoftUni\CSharp-basics\3.OperatorsAndExpressions\OperatorsAndExpressionsHW\07.PointInCircle\obj\Debug\07.PointInCircle.pdb

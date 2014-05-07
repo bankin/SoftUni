@@ -1,0 +1,1 @@
+E:\Programming\SoftUni\CSharp-basics\5.ConditionalStatements\ConditionalStatementsHW\10.BeerTime\bin\Debug\10.BeerTime.exe.config

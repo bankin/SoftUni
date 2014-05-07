@@ -1,0 +1,5 @@
+E:\Programming\SoftUni\CSharp-basics\7.AdvancedCSharp\AdvancedCSharpHW\06.LongestAreaInArray\bin\Debug\06.LongestAreaInArray.exe.config
+E:\Programming\SoftUni\CSharp-basics\7.AdvancedCSharp\AdvancedCSharpHW\06.LongestAreaInArray\bin\Debug\06.LongestAreaInArray.exe
+E:\Programming\SoftUni\CSharp-basics\7.AdvancedCSharp\AdvancedCSharpHW\06.LongestAreaInArray\bin\Debug\06.LongestAreaInArray.pdb
+E:\Programming\SoftUni\CSharp-basics\7.AdvancedCSharp\AdvancedCSharpHW\06.LongestAreaInArray\obj\Debug\06.LongestAreaInArray.exe
+E:\Programming\SoftUni\CSharp-basics\7.AdvancedCSharp\AdvancedCSharpHW\06.LongestAreaInArray\obj\Debug\06.LongestAreaInArray.pdb

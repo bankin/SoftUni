@@ -1,0 +1,5 @@
+E:\Programming\SoftUni\CSharp-basics\6.Loops\LoopsHW\09.PrintMatrix\bin\Debug\09.PrintMatrix.exe.config
+E:\Programming\SoftUni\CSharp-basics\6.Loops\LoopsHW\09.PrintMatrix\bin\Debug\09.PrintMatrix.exe
+E:\Programming\SoftUni\CSharp-basics\6.Loops\LoopsHW\09.PrintMatrix\bin\Debug\09.PrintMatrix.pdb
+E:\Programming\SoftUni\CSharp-basics\6.Loops\LoopsHW\09.PrintMatrix\obj\Debug\09.PrintMatrix.exe
+E:\Programming\SoftUni\CSharp-basics\6.Loops\LoopsHW\09.PrintMatrix\obj\Debug\09.PrintMatrix.pdb

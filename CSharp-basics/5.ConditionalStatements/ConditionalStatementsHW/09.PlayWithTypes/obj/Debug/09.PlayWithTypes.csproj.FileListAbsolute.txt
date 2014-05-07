@@ -1,0 +1,5 @@
+E:\Programming\SoftUni\CSharp-basics\5.ConditionalStatements\ConditionalStatementsHW\09.PlayWithTypes\bin\Debug\09.PlayWithTypes.exe.config
+E:\Programming\SoftUni\CSharp-basics\5.ConditionalStatements\ConditionalStatementsHW\09.PlayWithTypes\bin\Debug\09.PlayWithTypes.exe
+E:\Programming\SoftUni\CSharp-basics\5.ConditionalStatements\ConditionalStatementsHW\09.PlayWithTypes\bin\Debug\09.PlayWithTypes.pdb
+E:\Programming\SoftUni\CSharp-basics\5.ConditionalStatements\ConditionalStatementsHW\09.PlayWithTypes\obj\Debug\09.PlayWithTypes.exe
+E:\Programming\SoftUni\CSharp-basics\5.ConditionalStatements\ConditionalStatementsHW\09.PlayWithTypes\obj\Debug\09.PlayWithTypes.pdb

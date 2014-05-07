@@ -1,0 +1,5 @@
+E:\Programming\SoftUni\CSharp-basics\5.ConditionalStatements\ConditionalStatementsHW\03.CheckPlayCard\bin\Debug\03.CheckPlayCard.exe.config
+E:\Programming\SoftUni\CSharp-basics\5.ConditionalStatements\ConditionalStatementsHW\03.CheckPlayCard\bin\Debug\03.CheckPlayCard.exe
+E:\Programming\SoftUni\CSharp-basics\5.ConditionalStatements\ConditionalStatementsHW\03.CheckPlayCard\bin\Debug\03.CheckPlayCard.pdb
+E:\Programming\SoftUni\CSharp-basics\5.ConditionalStatements\ConditionalStatementsHW\03.CheckPlayCard\obj\Debug\03.CheckPlayCard.exe
+E:\Programming\SoftUni\CSharp-basics\5.ConditionalStatements\ConditionalStatementsHW\03.CheckPlayCard\obj\Debug\03.CheckPlayCard.pdb

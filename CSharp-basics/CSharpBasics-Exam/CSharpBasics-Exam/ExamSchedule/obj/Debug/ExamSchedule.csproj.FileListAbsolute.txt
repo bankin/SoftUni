@@ -1,0 +1,5 @@
+E:\Programming\SoftUni\CSharp-basics\CSharpBasics-Exam\CSharpBasics-Exam\ExamSchedule\bin\Debug\ExamSchedule.exe.config
+E:\Programming\SoftUni\CSharp-basics\CSharpBasics-Exam\CSharpBasics-Exam\ExamSchedule\bin\Debug\ExamSchedule.exe
+E:\Programming\SoftUni\CSharp-basics\CSharpBasics-Exam\CSharpBasics-Exam\ExamSchedule\bin\Debug\ExamSchedule.pdb
+E:\Programming\SoftUni\CSharp-basics\CSharpBasics-Exam\CSharpBasics-Exam\ExamSchedule\obj\Debug\ExamSchedule.exe
+E:\Programming\SoftUni\CSharp-basics\CSharpBasics-Exam\CSharpBasics-Exam\ExamSchedule\obj\Debug\ExamSchedule.pdb

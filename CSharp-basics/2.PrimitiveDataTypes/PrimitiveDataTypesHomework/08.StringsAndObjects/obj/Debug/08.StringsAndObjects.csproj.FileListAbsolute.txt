@@ -1,0 +1,5 @@
+F:\Programming\SoftUni\CSharp-basics\2.PrimitiveDataTypes\PrimitiveDataTypesHomework\08.StringsAndObjects\bin\Debug\08.StringsAndObjects.exe.config
+F:\Programming\SoftUni\CSharp-basics\2.PrimitiveDataTypes\PrimitiveDataTypesHomework\08.StringsAndObjects\bin\Debug\08.StringsAndObjects.exe
+F:\Programming\SoftUni\CSharp-basics\2.PrimitiveDataTypes\PrimitiveDataTypesHomework\08.StringsAndObjects\bin\Debug\08.StringsAndObjects.pdb
+F:\Programming\SoftUni\CSharp-basics\2.PrimitiveDataTypes\PrimitiveDataTypesHomework\08.StringsAndObjects\obj\Debug\08.StringsAndObjects.exe
+F:\Programming\SoftUni\CSharp-basics\2.PrimitiveDataTypes\PrimitiveDataTypesHomework\08.StringsAndObjects\obj\Debug\08.StringsAndObjects.pdb

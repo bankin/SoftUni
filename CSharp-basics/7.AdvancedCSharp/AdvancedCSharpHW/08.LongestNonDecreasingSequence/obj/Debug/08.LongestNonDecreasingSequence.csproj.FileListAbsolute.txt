@@ -1,0 +1,6 @@
+E:\Programming\SoftUni\CSharp-basics\7.AdvancedCSharp\AdvancedCSharpHW\08.LongestNonDecreasingSequence\bin\Debug\08.LongestNonDecreasingSequence.exe.config
+E:\Programming\SoftUni\CSharp-basics\7.AdvancedCSharp\AdvancedCSharpHW\08.LongestNonDecreasingSequence\bin\Debug\08.LongestNonDecreasingSequence.exe
+E:\Programming\SoftUni\CSharp-basics\7.AdvancedCSharp\AdvancedCSharpHW\08.LongestNonDecreasingSequence\bin\Debug\08.LongestNonDecreasingSequence.pdb
+E:\Programming\SoftUni\CSharp-basics\7.AdvancedCSharp\AdvancedCSharpHW\08.LongestNonDecreasingSequence\obj\Debug\08.LongestNonDecreasingSequence.csprojResolveAssemblyReference.cache
+E:\Programming\SoftUni\CSharp-basics\7.AdvancedCSharp\AdvancedCSharpHW\08.LongestNonDecreasingSequence\obj\Debug\08.LongestNonDecreasingSequence.exe
+E:\Programming\SoftUni\CSharp-basics\7.AdvancedCSharp\AdvancedCSharpHW\08.LongestNonDecreasingSequence\obj\Debug\08.LongestNonDecreasingSequence.pdb

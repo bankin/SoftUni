@@ -1,0 +1,5 @@
+E:\Programming\SoftUni\CSharp-basics\5.ConditionalStatements\ConditionalStatementsHW\06.BiggestOfFive\bin\Debug\06.BiggestOfFive.exe.config
+E:\Programming\SoftUni\CSharp-basics\5.ConditionalStatements\ConditionalStatementsHW\06.BiggestOfFive\bin\Debug\06.BiggestOfFive.exe
+E:\Programming\SoftUni\CSharp-basics\5.ConditionalStatements\ConditionalStatementsHW\06.BiggestOfFive\bin\Debug\06.BiggestOfFive.pdb
+E:\Programming\SoftUni\CSharp-basics\5.ConditionalStatements\ConditionalStatementsHW\06.BiggestOfFive\obj\Debug\06.BiggestOfFive.exe
+E:\Programming\SoftUni\CSharp-basics\5.ConditionalStatements\ConditionalStatementsHW\06.BiggestOfFive\obj\Debug\06.BiggestOfFive.pdb

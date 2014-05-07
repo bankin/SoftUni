@@ -1,0 +1,1 @@
+E:\Programming\SoftUni\CSharp-basics\4.ConsoleInputOutput\ConsoleIO\03.CirclePerimeterAndArea\bin\Debug\03.CirclePerimeterAndArea.exe.config

@@ -1,0 +1,1 @@
+E:\Programming\SoftUni\CSharp-basics\6.Loops\LoopsHW\14.DecimalToBinary\bin\Debug\14.DecimalToBinary.exe.config

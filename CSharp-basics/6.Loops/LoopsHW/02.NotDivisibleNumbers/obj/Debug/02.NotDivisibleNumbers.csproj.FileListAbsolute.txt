@@ -1,0 +1,5 @@
+E:\Programming\SoftUni\CSharp-basics\6.Loops\LoopsHW\02.NotDivisibleNumbers\bin\Debug\02.NotDivisibleNumbers.exe.config
+E:\Programming\SoftUni\CSharp-basics\6.Loops\LoopsHW\02.NotDivisibleNumbers\bin\Debug\02.NotDivisibleNumbers.exe
+E:\Programming\SoftUni\CSharp-basics\6.Loops\LoopsHW\02.NotDivisibleNumbers\bin\Debug\02.NotDivisibleNumbers.pdb
+E:\Programming\SoftUni\CSharp-basics\6.Loops\LoopsHW\02.NotDivisibleNumbers\obj\Debug\02.NotDivisibleNumbers.exe
+E:\Programming\SoftUni\CSharp-basics\6.Loops\LoopsHW\02.NotDivisibleNumbers\obj\Debug\02.NotDivisibleNumbers.pdb

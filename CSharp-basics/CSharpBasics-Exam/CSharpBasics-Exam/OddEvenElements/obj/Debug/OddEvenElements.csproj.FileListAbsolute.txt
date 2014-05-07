@@ -1,0 +1,6 @@
+E:\Programming\SoftUni\CSharp-basics\CSharpBasics-Exam\CSharpBasics-Exam\OddEvenElements\bin\Debug\OddEvenElements.exe.config
+E:\Programming\SoftUni\CSharp-basics\CSharpBasics-Exam\CSharpBasics-Exam\OddEvenElements\bin\Debug\OddEvenElements.exe
+E:\Programming\SoftUni\CSharp-basics\CSharpBasics-Exam\CSharpBasics-Exam\OddEvenElements\bin\Debug\OddEvenElements.pdb
+E:\Programming\SoftUni\CSharp-basics\CSharpBasics-Exam\CSharpBasics-Exam\OddEvenElements\obj\Debug\OddEvenElements.csprojResolveAssemblyReference.cache
+E:\Programming\SoftUni\CSharp-basics\CSharpBasics-Exam\CSharpBasics-Exam\OddEvenElements\obj\Debug\OddEvenElements.exe
+E:\Programming\SoftUni\CSharp-basics\CSharpBasics-Exam\CSharpBasics-Exam\OddEvenElements\obj\Debug\OddEvenElements.pdb

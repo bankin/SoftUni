@@ -1,0 +1,6 @@
+E:\Programming\SoftUni\CSharp-basics\3.OperatorsAndExpressions\OperatorsAndExpressionsHW\06.FourDigitNumber\bin\Debug\06.FourDigitNumber.exe.config
+E:\Programming\SoftUni\CSharp-basics\3.OperatorsAndExpressions\OperatorsAndExpressionsHW\06.FourDigitNumber\bin\Debug\06.FourDigitNumber.exe
+E:\Programming\SoftUni\CSharp-basics\3.OperatorsAndExpressions\OperatorsAndExpressionsHW\06.FourDigitNumber\bin\Debug\06.FourDigitNumber.pdb
+E:\Programming\SoftUni\CSharp-basics\3.OperatorsAndExpressions\OperatorsAndExpressionsHW\06.FourDigitNumber\obj\Debug\06.FourDigitNumber.exe
+E:\Programming\SoftUni\CSharp-basics\3.OperatorsAndExpressions\OperatorsAndExpressionsHW\06.FourDigitNumber\obj\Debug\06.FourDigitNumber.pdb
+E:\Programming\SoftUni\CSharp-basics\3.OperatorsAndExpressions\OperatorsAndExpressionsHW\06.FourDigitNumber\obj\Debug\06.FourDigitNumber.csprojResolveAssemblyReference.cache

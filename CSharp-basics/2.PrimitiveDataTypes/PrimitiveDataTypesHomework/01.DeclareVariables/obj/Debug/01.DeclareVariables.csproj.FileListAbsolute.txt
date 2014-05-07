@@ -1,0 +1,1 @@
+F:\Programming\SoftUni\CSharp-basics\2.PrimitiveDataTypes\PrimitiveDataTypesHomework\01.DeclareVariables\bin\Debug\01.DeclareVariables.exe.config

@@ -1,0 +1,5 @@
+E:\Programming\SoftUni\CSharp-basics\4.ConsoleInputOutput\ConsoleIO\10.FibonacciNumbers\bin\Debug\10.FibonacciNumbers.exe.config
+E:\Programming\SoftUni\CSharp-basics\4.ConsoleInputOutput\ConsoleIO\10.FibonacciNumbers\bin\Debug\10.FibonacciNumbers.exe
+E:\Programming\SoftUni\CSharp-basics\4.ConsoleInputOutput\ConsoleIO\10.FibonacciNumbers\bin\Debug\10.FibonacciNumbers.pdb
+E:\Programming\SoftUni\CSharp-basics\4.ConsoleInputOutput\ConsoleIO\10.FibonacciNumbers\obj\Debug\10.FibonacciNumbers.exe
+E:\Programming\SoftUni\CSharp-basics\4.ConsoleInputOutput\ConsoleIO\10.FibonacciNumbers\obj\Debug\10.FibonacciNumbers.pdb

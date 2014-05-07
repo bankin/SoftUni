@@ -1,0 +1,6 @@
+E:\Programming\SoftUni\CSharp-basics\6.Loops\LoopsHW\01.NumbersOneToN\bin\Debug\01.NumbersOneToN.exe.config
+E:\Programming\SoftUni\CSharp-basics\6.Loops\LoopsHW\01.NumbersOneToN\bin\Debug\01.NumbersOneToN.exe
+E:\Programming\SoftUni\CSharp-basics\6.Loops\LoopsHW\01.NumbersOneToN\bin\Debug\01.NumbersOneToN.pdb
+E:\Programming\SoftUni\CSharp-basics\6.Loops\LoopsHW\01.NumbersOneToN\obj\Debug\01.NumbersOneToN.csprojResolveAssemblyReference.cache
+E:\Programming\SoftUni\CSharp-basics\6.Loops\LoopsHW\01.NumbersOneToN\obj\Debug\01.NumbersOneToN.exe
+E:\Programming\SoftUni\CSharp-basics\6.Loops\LoopsHW\01.NumbersOneToN\obj\Debug\01.NumbersOneToN.pdb

@@ -1,0 +1,5 @@
+E:\Programming\SoftUni\CSharp-basics\3.OperatorsAndExpressions\OperatorsAndExpressionsHW\09.Trapezoid\bin\Debug\09.Trapezoid.exe.config
+E:\Programming\SoftUni\CSharp-basics\3.OperatorsAndExpressions\OperatorsAndExpressionsHW\09.Trapezoid\bin\Debug\09.Trapezoid.exe
+E:\Programming\SoftUni\CSharp-basics\3.OperatorsAndExpressions\OperatorsAndExpressionsHW\09.Trapezoid\bin\Debug\09.Trapezoid.pdb
+E:\Programming\SoftUni\CSharp-basics\3.OperatorsAndExpressions\OperatorsAndExpressionsHW\09.Trapezoid\obj\Debug\09.Trapezoid.exe
+E:\Programming\SoftUni\CSharp-basics\3.OperatorsAndExpressions\OperatorsAndExpressionsHW\09.Trapezoid\obj\Debug\09.Trapezoid.pdb

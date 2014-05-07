@@ -1,0 +1,5 @@
+E:\Programming\SoftUni\CSharp-basics\4.ConsoleInputOutput\ConsoleIO\05.FormattingNumbers\bin\Debug\05.FormattingNumbers.exe.config
+E:\Programming\SoftUni\CSharp-basics\4.ConsoleInputOutput\ConsoleIO\05.FormattingNumbers\bin\Debug\05.FormattingNumbers.exe
+E:\Programming\SoftUni\CSharp-basics\4.ConsoleInputOutput\ConsoleIO\05.FormattingNumbers\bin\Debug\05.FormattingNumbers.pdb
+E:\Programming\SoftUni\CSharp-basics\4.ConsoleInputOutput\ConsoleIO\05.FormattingNumbers\obj\Debug\05.FormattingNumbers.exe
+E:\Programming\SoftUni\CSharp-basics\4.ConsoleInputOutput\ConsoleIO\05.FormattingNumbers\obj\Debug\05.FormattingNumbers.pdb

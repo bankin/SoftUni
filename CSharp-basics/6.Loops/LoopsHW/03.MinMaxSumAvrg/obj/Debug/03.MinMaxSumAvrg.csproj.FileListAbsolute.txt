@@ -1,0 +1,5 @@
+E:\Programming\SoftUni\CSharp-basics\6.Loops\LoopsHW\03.MinMaxSumAvrg\bin\Debug\03.MinMaxSumAvrg.exe.config
+E:\Programming\SoftUni\CSharp-basics\6.Loops\LoopsHW\03.MinMaxSumAvrg\bin\Debug\03.MinMaxSumAvrg.exe
+E:\Programming\SoftUni\CSharp-basics\6.Loops\LoopsHW\03.MinMaxSumAvrg\bin\Debug\03.MinMaxSumAvrg.pdb
+E:\Programming\SoftUni\CSharp-basics\6.Loops\LoopsHW\03.MinMaxSumAvrg\obj\Debug\03.MinMaxSumAvrg.exe
+E:\Programming\SoftUni\CSharp-basics\6.Loops\LoopsHW\03.MinMaxSumAvrg\obj\Debug\03.MinMaxSumAvrg.pdb

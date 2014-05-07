@@ -1,0 +1,5 @@
+E:\Programming\SoftUni\CSharp-basics\3.OperatorsAndExpressions\OperatorsAndExpressionsHW\03.DevideBySevenAndFive\bin\Debug\03.DevideBySevenAndFive.exe.config
+E:\Programming\SoftUni\CSharp-basics\3.OperatorsAndExpressions\OperatorsAndExpressionsHW\03.DevideBySevenAndFive\bin\Debug\03.DevideBySevenAndFive.exe
+E:\Programming\SoftUni\CSharp-basics\3.OperatorsAndExpressions\OperatorsAndExpressionsHW\03.DevideBySevenAndFive\bin\Debug\03.DevideBySevenAndFive.pdb
+E:\Programming\SoftUni\CSharp-basics\3.OperatorsAndExpressions\OperatorsAndExpressionsHW\03.DevideBySevenAndFive\obj\Debug\03.DevideBySevenAndFive.exe
+E:\Programming\SoftUni\CSharp-basics\3.OperatorsAndExpressions\OperatorsAndExpressionsHW\03.DevideBySevenAndFive\obj\Debug\03.DevideBySevenAndFive.pdb

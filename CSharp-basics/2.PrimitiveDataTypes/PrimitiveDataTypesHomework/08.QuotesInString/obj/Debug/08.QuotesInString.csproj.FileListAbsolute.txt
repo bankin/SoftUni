@@ -1,0 +1,5 @@
+F:\Programming\SoftUni\CSharp-basics\2.PrimitiveDataTypes\PrimitiveDataTypesHomework\08.QuotesInString\bin\Debug\08.QuotesInString.exe.config
+F:\Programming\SoftUni\CSharp-basics\2.PrimitiveDataTypes\PrimitiveDataTypesHomework\08.QuotesInString\bin\Debug\08.QuotesInString.exe
+F:\Programming\SoftUni\CSharp-basics\2.PrimitiveDataTypes\PrimitiveDataTypesHomework\08.QuotesInString\bin\Debug\08.QuotesInString.pdb
+F:\Programming\SoftUni\CSharp-basics\2.PrimitiveDataTypes\PrimitiveDataTypesHomework\08.QuotesInString\obj\Debug\08.QuotesInString.exe
+F:\Programming\SoftUni\CSharp-basics\2.PrimitiveDataTypes\PrimitiveDataTypesHomework\08.QuotesInString\obj\Debug\08.QuotesInString.pdb

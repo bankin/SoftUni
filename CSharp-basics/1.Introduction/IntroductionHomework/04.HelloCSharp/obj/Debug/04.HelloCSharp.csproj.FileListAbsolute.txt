@@ -1,0 +1,3 @@
+F:\Programming\MS VS\ProjectGroups\IntroductionHomework\04.HelloCSharp\bin\Debug\04.HelloCSharp.exe.config
+F:\Programming\SoftUni\CSharp-basics\1.Introduction\IntroductionHomework\04.HelloCSharp\bin\Debug\04.HelloCSharp.exe.config
+E:\Programming\SoftUni\CSharp-basics\1.Introduction\IntroductionHomework\04.HelloCSharp\bin\Debug\04.HelloCSharp.exe.config

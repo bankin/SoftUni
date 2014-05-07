@@ -1,0 +1,18 @@
+import java.text.SimpleDateFormat;
+import java.util.Date;
+
+import javax.print.attribute.standard.DateTimeAtCompleted;
+
+
+
+
+public class _05_Current_DateTime {
+	public static void main(String[] args) {
+		DateFormat dateFormat = new SimpleDateFormat("yyyyMMdd");
+		//get current date time with Date()
+		Date date = new Date();
+		System.out.println(dateFormat.format(date));
+		
+		System.out.println(new SimpleDateFormat("HH:mm:SS").format(new Date()));
+	}
+}

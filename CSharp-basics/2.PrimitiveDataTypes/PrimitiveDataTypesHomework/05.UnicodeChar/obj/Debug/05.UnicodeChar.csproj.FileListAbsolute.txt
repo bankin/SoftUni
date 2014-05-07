@@ -1,0 +1,5 @@
+F:\Programming\SoftUni\CSharp-basics\2.PrimitiveDataTypes\PrimitiveDataTypesHomework\05.UnicodeChar\bin\Debug\05.UnicodeChar.exe.config
+F:\Programming\SoftUni\CSharp-basics\2.PrimitiveDataTypes\PrimitiveDataTypesHomework\05.UnicodeChar\bin\Debug\05.UnicodeChar.exe
+F:\Programming\SoftUni\CSharp-basics\2.PrimitiveDataTypes\PrimitiveDataTypesHomework\05.UnicodeChar\bin\Debug\05.UnicodeChar.pdb
+F:\Programming\SoftUni\CSharp-basics\2.PrimitiveDataTypes\PrimitiveDataTypesHomework\05.UnicodeChar\obj\Debug\05.UnicodeChar.exe
+F:\Programming\SoftUni\CSharp-basics\2.PrimitiveDataTypes\PrimitiveDataTypesHomework\05.UnicodeChar\obj\Debug\05.UnicodeChar.pdb

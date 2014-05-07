@@ -1,0 +1,5 @@
+F:\Programming\SoftUni\CSharp-basics\2.PrimitiveDataTypes\PrimitiveDataTypesHomework\11.EmployeeData\bin\Debug\11.EmployeeData.exe.config
+F:\Programming\SoftUni\CSharp-basics\2.PrimitiveDataTypes\PrimitiveDataTypesHomework\11.EmployeeData\bin\Debug\11.EmployeeData.exe
+F:\Programming\SoftUni\CSharp-basics\2.PrimitiveDataTypes\PrimitiveDataTypesHomework\11.EmployeeData\bin\Debug\11.EmployeeData.pdb
+F:\Programming\SoftUni\CSharp-basics\2.PrimitiveDataTypes\PrimitiveDataTypesHomework\11.EmployeeData\obj\Debug\11.EmployeeData.exe
+F:\Programming\SoftUni\CSharp-basics\2.PrimitiveDataTypes\PrimitiveDataTypesHomework\11.EmployeeData\obj\Debug\11.EmployeeData.pdb

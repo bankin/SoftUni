@@ -1,0 +1,6 @@
+Programming languages
+
+1. C# - C# is a modern language, developed by Microsoft Corporation. It is mainly used under the Windows platform (there is a Mono project for Linux but it’s not as good as the native windows support). It is used for creating desktop applications, windows store applications, websites using asp.net, and many more.
+2. JAVA – JAVA is one of the main competitors of C#. It is developed by Oracle and is multiplatform (the main reason many developers choose JAVA instead of C#). It can be ran in Linux, Windows, Mac OS, Android etc. Used for creation of desktop applications, websites, mobile applications and many other.
+3. PHP – PHP Hypertext Preprocessor is one of the most popular language for creating websites. It is simple c-based language. The main difference is that PHP is not strongly typed. With PHP can be created desktop applications but this is not its main purpose. Facebook is written in PHP.
+4. JavaScript – JavaScript is script language as PHP. It is run in the browser and is used for creation of dynamic web pages. It’s good as an addition to some server-side language. Nowadays you can write JavaScirpt on the server using Node.js

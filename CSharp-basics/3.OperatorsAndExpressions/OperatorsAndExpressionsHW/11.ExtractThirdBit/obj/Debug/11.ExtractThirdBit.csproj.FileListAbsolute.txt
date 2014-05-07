@@ -1,0 +1,6 @@
+E:\Programming\SoftUni\CSharp-basics\3.OperatorsAndExpressions\OperatorsAndExpressionsHW\11.ExtractThirdBit\bin\Debug\11.ExtractThirdBit.exe.config
+E:\Programming\SoftUni\CSharp-basics\3.OperatorsAndExpressions\OperatorsAndExpressionsHW\11.ExtractThirdBit\bin\Debug\11.ExtractThirdBit.exe
+E:\Programming\SoftUni\CSharp-basics\3.OperatorsAndExpressions\OperatorsAndExpressionsHW\11.ExtractThirdBit\bin\Debug\11.ExtractThirdBit.pdb
+E:\Programming\SoftUni\CSharp-basics\3.OperatorsAndExpressions\OperatorsAndExpressionsHW\11.ExtractThirdBit\obj\Debug\11.ExtractThirdBit.exe
+E:\Programming\SoftUni\CSharp-basics\3.OperatorsAndExpressions\OperatorsAndExpressionsHW\11.ExtractThirdBit\obj\Debug\11.ExtractThirdBit.pdb
+E:\Programming\SoftUni\CSharp-basics\3.OperatorsAndExpressions\OperatorsAndExpressionsHW\11.ExtractThirdBit\obj\Debug\11.ExtractThirdBit.csprojResolveAssemblyReference.cache

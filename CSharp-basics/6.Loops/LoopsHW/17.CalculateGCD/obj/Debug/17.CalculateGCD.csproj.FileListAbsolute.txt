@@ -1,0 +1,5 @@
+E:\Programming\SoftUni\CSharp-basics\6.Loops\LoopsHW\17.CalculateGCD\bin\Debug\17.CalculateGCD.exe.config
+E:\Programming\SoftUni\CSharp-basics\6.Loops\LoopsHW\17.CalculateGCD\bin\Debug\17.CalculateGCD.exe
+E:\Programming\SoftUni\CSharp-basics\6.Loops\LoopsHW\17.CalculateGCD\bin\Debug\17.CalculateGCD.pdb
+E:\Programming\SoftUni\CSharp-basics\6.Loops\LoopsHW\17.CalculateGCD\obj\Debug\17.CalculateGCD.exe
+E:\Programming\SoftUni\CSharp-basics\6.Loops\LoopsHW\17.CalculateGCD\obj\Debug\17.CalculateGCD.pdb

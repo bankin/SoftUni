@@ -1,0 +1,5 @@
+E:\Programming\SoftUni\CSharp-basics\7.AdvancedCSharp\AdvancedCSharpHW\03.PrimesInRange\bin\Debug\03.PrimesInRange.exe.config
+E:\Programming\SoftUni\CSharp-basics\7.AdvancedCSharp\AdvancedCSharpHW\03.PrimesInRange\bin\Debug\03.PrimesInRange.exe
+E:\Programming\SoftUni\CSharp-basics\7.AdvancedCSharp\AdvancedCSharpHW\03.PrimesInRange\bin\Debug\03.PrimesInRange.pdb
+E:\Programming\SoftUni\CSharp-basics\7.AdvancedCSharp\AdvancedCSharpHW\03.PrimesInRange\obj\Debug\03.PrimesInRange.exe
+E:\Programming\SoftUni\CSharp-basics\7.AdvancedCSharp\AdvancedCSharpHW\03.PrimesInRange\obj\Debug\03.PrimesInRange.pdb

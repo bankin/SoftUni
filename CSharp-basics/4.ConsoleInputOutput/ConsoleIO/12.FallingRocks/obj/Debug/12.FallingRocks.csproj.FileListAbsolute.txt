@@ -1,0 +1,5 @@
+E:\Programming\SoftUni\CSharp-basics\4.ConsoleInputOutput\ConsoleIO\12.FallingRocks\bin\Debug\12.FallingRocks.exe.config
+E:\Programming\SoftUni\CSharp-basics\4.ConsoleInputOutput\ConsoleIO\12.FallingRocks\bin\Debug\12.FallingRocks.exe
+E:\Programming\SoftUni\CSharp-basics\4.ConsoleInputOutput\ConsoleIO\12.FallingRocks\bin\Debug\12.FallingRocks.pdb
+E:\Programming\SoftUni\CSharp-basics\4.ConsoleInputOutput\ConsoleIO\12.FallingRocks\obj\Debug\12.FallingRocks.exe
+E:\Programming\SoftUni\CSharp-basics\4.ConsoleInputOutput\ConsoleIO\12.FallingRocks\obj\Debug\12.FallingRocks.pdb

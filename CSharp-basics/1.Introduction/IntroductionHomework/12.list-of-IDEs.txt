@@ -1,0 +1,6 @@
+List of IDEs
+
+1. Microsoft Visual Studio – used mainly for developing C# but also good for developing many other languages as F#, C++, HTML, CSS, JavaScript and many other.
+2. Eclipse – mainly used as Java IDE but also available for many other languages. Used as IDE for writing Android applications
+3. NetBeans – created for JAVA development but later as Eclipse became the main JAVA IDE, NetBeans became mainly for PHP development but is also used for many other things.
+4. xCode – is used for developing under the Mac OS platform and writing objective-c applications.

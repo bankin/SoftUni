@@ -1,0 +1,1 @@
+F:\Programming\SoftUni\CSharp-basics\2.PrimitiveDataTypes\PrimitiveDataTypesHomework\06.BooleanValue\bin\Debug\06.BooleanValue.exe.config

@@ -1,0 +1,8 @@
+F:\Programming\MS VS\ProjectGroups\IntroductionHomework\15.AgeAfterTenYears\bin\Debug\15.AgeAfterTenYears.exe.config
+F:\Programming\MS VS\ProjectGroups\IntroductionHomework\15.AgeAfterTenYears\bin\Debug\15.AgeAfterTenYears.exe
+F:\Programming\MS VS\ProjectGroups\IntroductionHomework\15.AgeAfterTenYears\bin\Debug\15.AgeAfterTenYears.pdb
+F:\Programming\MS VS\ProjectGroups\IntroductionHomework\15.AgeAfterTenYears\obj\Debug\15.AgeAfterTenYears.exe
+F:\Programming\MS VS\ProjectGroups\IntroductionHomework\15.AgeAfterTenYears\obj\Debug\15.AgeAfterTenYears.pdb
+E:\Programming\SoftUni\CSharp-basics\1.Introduction\IntroductionHomework\15.AgeAfterTenYears\bin\Debug\15.AgeAfterTenYears.exe.config
+E:\Programming\SoftUni\CSharp-basics\1.Introduction\IntroductionHomework\15.AgeAfterTenYears\obj\Debug\15.AgeAfterTenYears.exe
+E:\Programming\SoftUni\CSharp-basics\1.Introduction\IntroductionHomework\15.AgeAfterTenYears\obj\Debug\15.AgeAfterTenYears.pdb

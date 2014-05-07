@@ -1,0 +1,6 @@
+F:\Programming\SoftUni\CSharp-basics\2.PrimitiveDataTypes\PrimitiveDataTypesHomework\03.CompareFloats\bin\Debug\03.CompareFloats.exe.config
+F:\Programming\SoftUni\CSharp-basics\2.PrimitiveDataTypes\PrimitiveDataTypesHomework\03.CompareFloats\bin\Debug\03.CompareFloats.exe
+F:\Programming\SoftUni\CSharp-basics\2.PrimitiveDataTypes\PrimitiveDataTypesHomework\03.CompareFloats\bin\Debug\03.CompareFloats.pdb
+F:\Programming\SoftUni\CSharp-basics\2.PrimitiveDataTypes\PrimitiveDataTypesHomework\03.CompareFloats\obj\Debug\03.CompareFloats.csprojResolveAssemblyReference.cache
+F:\Programming\SoftUni\CSharp-basics\2.PrimitiveDataTypes\PrimitiveDataTypesHomework\03.CompareFloats\obj\Debug\03.CompareFloats.exe
+F:\Programming\SoftUni\CSharp-basics\2.PrimitiveDataTypes\PrimitiveDataTypesHomework\03.CompareFloats\obj\Debug\03.CompareFloats.pdb

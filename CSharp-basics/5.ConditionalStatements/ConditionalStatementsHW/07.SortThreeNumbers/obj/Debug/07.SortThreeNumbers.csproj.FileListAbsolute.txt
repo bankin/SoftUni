@@ -1,0 +1,5 @@
+E:\Programming\SoftUni\CSharp-basics\5.ConditionalStatements\ConditionalStatementsHW\07.SortThreeNumbers\bin\Debug\07.SortThreeNumbers.exe.config
+E:\Programming\SoftUni\CSharp-basics\5.ConditionalStatements\ConditionalStatementsHW\07.SortThreeNumbers\bin\Debug\07.SortThreeNumbers.exe
+E:\Programming\SoftUni\CSharp-basics\5.ConditionalStatements\ConditionalStatementsHW\07.SortThreeNumbers\bin\Debug\07.SortThreeNumbers.pdb
+E:\Programming\SoftUni\CSharp-basics\5.ConditionalStatements\ConditionalStatementsHW\07.SortThreeNumbers\obj\Debug\07.SortThreeNumbers.exe
+E:\Programming\SoftUni\CSharp-basics\5.ConditionalStatements\ConditionalStatementsHW\07.SortThreeNumbers\obj\Debug\07.SortThreeNumbers.pdb

@@ -1,0 +1,6 @@
+E:\Programming\SoftUni\CSharp-basics\3.OperatorsAndExpressions\OperatorsAndExpressionsHW\16.BitExchangeAdv\bin\Debug\16.BitExchangeAdv.exe.config
+E:\Programming\SoftUni\CSharp-basics\3.OperatorsAndExpressions\OperatorsAndExpressionsHW\16.BitExchangeAdv\bin\Debug\16.BitExchangeAdv.exe
+E:\Programming\SoftUni\CSharp-basics\3.OperatorsAndExpressions\OperatorsAndExpressionsHW\16.BitExchangeAdv\bin\Debug\16.BitExchangeAdv.pdb
+E:\Programming\SoftUni\CSharp-basics\3.OperatorsAndExpressions\OperatorsAndExpressionsHW\16.BitExchangeAdv\obj\Debug\16.BitExchangeAdv.exe
+E:\Programming\SoftUni\CSharp-basics\3.OperatorsAndExpressions\OperatorsAndExpressionsHW\16.BitExchangeAdv\obj\Debug\16.BitExchangeAdv.pdb
+E:\Programming\SoftUni\CSharp-basics\3.OperatorsAndExpressions\OperatorsAndExpressionsHW\16.BitExchangeAdv\obj\Debug\16.BitExchangeAdv.csprojResolveAssemblyReference.cache

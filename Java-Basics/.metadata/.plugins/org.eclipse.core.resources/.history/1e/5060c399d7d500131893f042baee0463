@@ -1,0 +1,8 @@
+
+
+
+public class _05_Current_DateTime {
+	public static void main(String[] args) {
+		System.out.println(new SimpleDateFormat("HH:mm:SS").format(new Date()));
+	}
+}

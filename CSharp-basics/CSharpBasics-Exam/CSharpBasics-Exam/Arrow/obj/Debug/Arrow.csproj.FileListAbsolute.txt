@@ -1,0 +1,5 @@
+E:\Programming\SoftUni\CSharp-basics\CSharpBasics-Exam\CSharpBasics-Exam\Arrow\bin\Debug\Arrow.exe.config
+E:\Programming\SoftUni\CSharp-basics\CSharpBasics-Exam\CSharpBasics-Exam\Arrow\bin\Debug\Arrow.exe
+E:\Programming\SoftUni\CSharp-basics\CSharpBasics-Exam\CSharpBasics-Exam\Arrow\bin\Debug\Arrow.pdb
+E:\Programming\SoftUni\CSharp-basics\CSharpBasics-Exam\CSharpBasics-Exam\Arrow\obj\Debug\Arrow.exe
+E:\Programming\SoftUni\CSharp-basics\CSharpBasics-Exam\CSharpBasics-Exam\Arrow\obj\Debug\Arrow.pdb

@@ -1,0 +1,5 @@
+E:\Programming\SoftUni\CSharp-basics\4.ConsoleInputOutput\ConsoleIO\02.CompanyInformation\bin\Debug\02.CompanyInformation.exe.config
+E:\Programming\SoftUni\CSharp-basics\4.ConsoleInputOutput\ConsoleIO\02.CompanyInformation\bin\Debug\02.CompanyInformation.exe
+E:\Programming\SoftUni\CSharp-basics\4.ConsoleInputOutput\ConsoleIO\02.CompanyInformation\bin\Debug\02.CompanyInformation.pdb
+E:\Programming\SoftUni\CSharp-basics\4.ConsoleInputOutput\ConsoleIO\02.CompanyInformation\obj\Debug\02.CompanyInformation.exe
+E:\Programming\SoftUni\CSharp-basics\4.ConsoleInputOutput\ConsoleIO\02.CompanyInformation\obj\Debug\02.CompanyInformation.pdb

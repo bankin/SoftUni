@@ -1,0 +1,5 @@
+E:\Programming\SoftUni\CSharp-basics\6.Loops\LoopsHW\06.CalculateNOverK\bin\Debug\06.CalculateNOverK.exe.config
+E:\Programming\SoftUni\CSharp-basics\6.Loops\LoopsHW\06.CalculateNOverK\bin\Debug\06.CalculateNOverK.exe
+E:\Programming\SoftUni\CSharp-basics\6.Loops\LoopsHW\06.CalculateNOverK\bin\Debug\06.CalculateNOverK.pdb
+E:\Programming\SoftUni\CSharp-basics\6.Loops\LoopsHW\06.CalculateNOverK\obj\Debug\06.CalculateNOverK.exe
+E:\Programming\SoftUni\CSharp-basics\6.Loops\LoopsHW\06.CalculateNOverK\obj\Debug\06.CalculateNOverK.pdb

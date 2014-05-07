@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Extract method &apos;private static void generateCard(Document document) throws DocumentException &apos; from &apos;_09_Generate_PDF.main()&apos; to &apos;_09_Generate_PDF&apos;&#x0D;&#x0A;- Original project: &apos;Introduction-HW&apos;&#x0D;&#x0A;- Method name: &apos;generateCard&apos;&#x0D;&#x0A;- Destination type: &apos;_09_Generate_PDF&apos;&#x0D;&#x0A;- Declared visibility: &apos;private&apos;" comments="false" description="Extract method &apos;generateCard&apos;" destination="0" exceptions="false" flags="786434" id="org.eclipse.jdt.ui.extract.method" input="/src&lt;{_09_Generate_PDF.java" name="generateCard" replace="false" selection="1435 567" stamp="1399479496089" version="1.0" visibility="2"/>
+</session>

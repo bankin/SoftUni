@@ -1,0 +1,4 @@
+C# and .NET Differences
+
+C# is a modern programming language used for creating different types of desktop applications, website, and mobile applications with the help of .NET framework. 
+.NET is a framework which gives C# a lot of different libraries, classes, function to choose from. So it is one powerful addition to the C# language. 

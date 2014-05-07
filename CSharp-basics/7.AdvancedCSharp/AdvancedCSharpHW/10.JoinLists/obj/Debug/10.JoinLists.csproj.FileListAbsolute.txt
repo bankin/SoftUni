@@ -1,0 +1,5 @@
+E:\Programming\SoftUni\CSharp-basics\7.AdvancedCSharp\AdvancedCSharpHW\10.JoinLists\bin\Debug\10.JoinLists.exe.config
+E:\Programming\SoftUni\CSharp-basics\7.AdvancedCSharp\AdvancedCSharpHW\10.JoinLists\bin\Debug\10.JoinLists.exe
+E:\Programming\SoftUni\CSharp-basics\7.AdvancedCSharp\AdvancedCSharpHW\10.JoinLists\bin\Debug\10.JoinLists.pdb
+E:\Programming\SoftUni\CSharp-basics\7.AdvancedCSharp\AdvancedCSharpHW\10.JoinLists\obj\Debug\10.JoinLists.exe
+E:\Programming\SoftUni\CSharp-basics\7.AdvancedCSharp\AdvancedCSharpHW\10.JoinLists\obj\Debug\10.JoinLists.pdb

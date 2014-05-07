@@ -1,0 +1,5 @@
+F:\Programming\SoftUni\CSharp-basics\2.PrimitiveDataTypes\PrimitiveDataTypesHomework\14.PrintAsciiTable\bin\Debug\14.PrintAsciiTable.exe.config
+F:\Programming\SoftUni\CSharp-basics\2.PrimitiveDataTypes\PrimitiveDataTypesHomework\14.PrintAsciiTable\bin\Debug\14.PrintAsciiTable.exe
+F:\Programming\SoftUni\CSharp-basics\2.PrimitiveDataTypes\PrimitiveDataTypesHomework\14.PrintAsciiTable\bin\Debug\14.PrintAsciiTable.pdb
+F:\Programming\SoftUni\CSharp-basics\2.PrimitiveDataTypes\PrimitiveDataTypesHomework\14.PrintAsciiTable\obj\Debug\14.PrintAsciiTable.exe
+F:\Programming\SoftUni\CSharp-basics\2.PrimitiveDataTypes\PrimitiveDataTypesHomework\14.PrintAsciiTable\obj\Debug\14.PrintAsciiTable.pdb

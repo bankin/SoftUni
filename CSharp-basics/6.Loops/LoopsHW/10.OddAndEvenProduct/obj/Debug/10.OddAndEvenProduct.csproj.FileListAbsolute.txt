@@ -1,0 +1,5 @@
+E:\Programming\SoftUni\CSharp-basics\6.Loops\LoopsHW\10.OddAndEvenProduct\bin\Debug\10.OddAndEvenProduct.exe.config
+E:\Programming\SoftUni\CSharp-basics\6.Loops\LoopsHW\10.OddAndEvenProduct\bin\Debug\10.OddAndEvenProduct.exe
+E:\Programming\SoftUni\CSharp-basics\6.Loops\LoopsHW\10.OddAndEvenProduct\bin\Debug\10.OddAndEvenProduct.pdb
+E:\Programming\SoftUni\CSharp-basics\6.Loops\LoopsHW\10.OddAndEvenProduct\obj\Debug\10.OddAndEvenProduct.exe
+E:\Programming\SoftUni\CSharp-basics\6.Loops\LoopsHW\10.OddAndEvenProduct\obj\Debug\10.OddAndEvenProduct.pdb

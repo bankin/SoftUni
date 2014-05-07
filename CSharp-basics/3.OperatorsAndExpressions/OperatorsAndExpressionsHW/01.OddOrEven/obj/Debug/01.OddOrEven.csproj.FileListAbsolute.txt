@@ -1,0 +1,6 @@
+E:\Programming\SoftUni\CSharp-basics\3.OperatorsAndExpressions\OperatorsAndExpressionsHW\01.OddOrEven\bin\Debug\01.OddOrEven.exe.config
+E:\Programming\SoftUni\CSharp-basics\3.OperatorsAndExpressions\OperatorsAndExpressionsHW\01.OddOrEven\bin\Debug\01.OddOrEven.exe
+E:\Programming\SoftUni\CSharp-basics\3.OperatorsAndExpressions\OperatorsAndExpressionsHW\01.OddOrEven\bin\Debug\01.OddOrEven.pdb
+E:\Programming\SoftUni\CSharp-basics\3.OperatorsAndExpressions\OperatorsAndExpressionsHW\01.OddOrEven\obj\Debug\01.OddOrEven.csprojResolveAssemblyReference.cache
+E:\Programming\SoftUni\CSharp-basics\3.OperatorsAndExpressions\OperatorsAndExpressionsHW\01.OddOrEven\obj\Debug\01.OddOrEven.exe
+E:\Programming\SoftUni\CSharp-basics\3.OperatorsAndExpressions\OperatorsAndExpressionsHW\01.OddOrEven\obj\Debug\01.OddOrEven.pdb
