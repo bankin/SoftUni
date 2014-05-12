@@ -1,0 +1,63 @@
+import java.io.FileOutputStream;
+
+import com.itextpdf.text.Document;
+import com.itextpdf.text.DocumentException;
+import com.itextpdf.text.Paragraph;
+import com.itextpdf.text.pdf.PdfWriter;
+
+public class _09_Generate_PDF {
+	
+	public static String[] cards = new String[14];
+	
+	public static void main(String[] args) {
+		for(int i = 1; i <= 13; i++){
+			cards[i] = Integer.toString(i);
+			
+		}
+	}
+	// Creating PDF (trying..;
+	  private static String FILE = "C:\\Users\\Nikolay\\Desktop\\asd.pdf";
+	  
+	  public static void creatingPDF(){
+		  try {
+		  Document document = new Document();
+		  PdfWriter.getInstance(document, new FileOutputStream(FILE));
+		  document.open();
+		  addPage(document);
+		  document.close();
+		  }
+		  catch (Exception e) {
+	      e.printStackTrace();
+	    }
+	  }
+
+	private static void addPage(Document document) throws DocumentException {
+		Paragraph text = new Paragraph();
+		
+		String card = null;
+		
+		for (int j = 0; j < 4; j++) {
+			
+			for (int i = 0; i < cards.length; i++) {
+				
+				if(i == 1){
+					text.add(" Ace ");
+				}
+				if(i != 0 && i != 1 && i < 11){
+					cards[i] = card;
+					text.add(card + " ");
+				}
+				else if (i == 11) {
+					text.add(" Jack ");
+				}
+				else if (i == 12) {
+					text.add(" Queen ");
+				}
+				else if (i == 13) {
+					text.add(" King ");
+				}
+			}
+
+		}
+	}
+}

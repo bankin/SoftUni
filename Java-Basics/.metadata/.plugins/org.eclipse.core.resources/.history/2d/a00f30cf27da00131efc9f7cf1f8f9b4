@@ -1,0 +1,10 @@
+import java.util.Scanner;
+
+public class _06_Sum_Two_Numbers {
+	public static void main(String[] args) {
+		System.out.println("Insert two nubmbers: ");
+	    Scanner scanner = new Scanner(System.in);
+	    String username = scanner.nextInt();
+	    System.out.println("Your username is " + username);
+	}
+}

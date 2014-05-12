@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="java.sql.Date"/>
+<fullyQualifiedTypeName name="java.text.SimpleDateFormat"/>
+<fullyQualifiedTypeName name="java.util.Date"/>
+<fullyQualifiedTypeName name="javax.print.attribute.standard.DateTimeAtCompleted"/>
+<fullyQualifiedTypeName name="java.text.DateFormat"/>
+<fullyQualifiedTypeName name="com.itextpdf.text.Paragraph"/>
+<fullyQualifiedTypeName name="com.itextpdf.text.pdf.PdfContentByte"/>
+<fullyQualifiedTypeName name="com.itextpdf.text.pdf.PdfWriter"/>
+<fullyQualifiedTypeName name="java.io.FileOutputStream"/>
+<fullyQualifiedTypeName name="com.itextpdf.text.pdf.PdfDocument"/>
+<fullyQualifiedTypeName name="com.itextpdf.text.FontFactory"/>
+<fullyQualifiedTypeName name="com.itextpdf.text.PageSize"/>
+</qualifiedTypeNameHistroy>
