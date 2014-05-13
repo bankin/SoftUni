@@ -20,6 +20,7 @@ public class _09_Points_Inside_House {
 
 	  return ((b1 == b2) && (b2 == b3));
 	}
+	
 	public static void main(String[] args) {
 		Scanner scan = new Scanner(System.in);
 		System.out.print("Insert point coordinates: ");
