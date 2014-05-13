@@ -1,0 +1,15 @@
+import java.util.Scanner;
+
+
+public class _03_Points_Inside_Figure {
+	public static void main(String[] args) {
+		Scanner scan = new Scanner(System.in);
+		Integer point[] = new Integer[2];
+		String[] line = scan.nextLine().split(" ");
+		point[0] = Integer.parseInt(line[0]);
+		point[1] = Integer.parseInt(line[1]);
+		
+		if(point[1] < 6){ System.out.println("Outside"); return; }
+		if(point[1] > 13.5) { System.out.println("Outside"); return; }
+	}
+}

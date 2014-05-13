@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>.org.eclipse.jdt.core.external.folders</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+	</buildSpec>
+	<natures>
+	</natures>
+	<linkedResources>
+		<link>
+			<name>.link0</name>
+			<type>2</type>
+			<location>E:/Downloads/batik-1.7-jre13/batik-1.7</location>
+		</link>
+		<link>
+			<name>.link1</name>
+			<type>2</type>
+			<location>E:/Downloads/batik-1.7-jre13/batik-1.7/extensions</location>
+		</link>
+	</linkedResources>
+</projectDescription>

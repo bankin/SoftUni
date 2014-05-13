@@ -1,0 +1,12 @@
+import java.util.Scanner;
+
+
+public class _07_Count_Of_Bits_One {
+	public static void main(String[] args) {
+		Scanner scan = new Scanner(System.in);
+		Integer num = scan.nextInt();
+		String bitStr = Integer.toBinaryString(num);
+		
+		System.out.println(bitS);
+	}
+}

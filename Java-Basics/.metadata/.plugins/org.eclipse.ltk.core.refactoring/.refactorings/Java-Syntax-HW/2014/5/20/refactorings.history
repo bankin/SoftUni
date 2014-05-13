@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename local variable &apos;largest&apos; in &apos;_04_Smallest_Of_Three.main(...)&apos; to &apos;smallest&apos;&#x0D;&#x0A;- Original project: &apos;Java-Syntax-HW&apos;&#x0D;&#x0A;- Original element: &apos;_04_Smallest_Of_Three.main(String[]).largest&apos;&#x0D;&#x0A;- Renamed element: &apos;largest&apos;&#x0D;&#x0A;- Update references to refactored element" description="Rename local variable &apos;largest&apos;" id="org.eclipse.jdt.ui.rename.local.variable" input="/src&lt;{_04_Smallest_Of_Three.java[_04_Smallest_Of_Three~main~\[QString;@largest!348!362!355!361!QDouble;!0!false" name="smallest" references="true" stamp="1399940170215" version="1.0"/>
+</session>

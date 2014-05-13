@@ -1,0 +1,18 @@
+import java.util.Scanner;
+
+
+public class _05_Dec_To_Hex {
+	public static void main(String[] args) {
+		Scanner scan = new Scanner(System.in);
+		Integer num = scan.nextInt();
+		String result = "";
+		while(num > 0){
+			int rest = num % 16;
+			num = num / 16;
+			char add = '#';
+			switch(rest){
+			
+			}
+		}
+	}
+}

@@ -1,0 +1,10 @@
+import java.util.Scanner;
+
+
+public class _03_Points_Inside_Figure {
+	public static void main(String[] args) {
+		Scanner scan = new Scanner(System.in);
+		Integer point[] = new Integer[2];
+		
+	}
+}
