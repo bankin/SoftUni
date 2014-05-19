@@ -1,0 +1,58 @@
+package ZiostSpaceInvaders;
+import java.awt.Color;
+import java.awt.Graphics;
+import java.awt.Image;
+
+import javax.swing.ImageIcon;
+import javax.swing.JFrame;
+
+public class Game extends JFrame  {
+	Image dbImage;
+	Graphics dbg;
+	
+	public static int Width = 500;
+	public static int Height = 600;
+	public static Board board;
+	public Game(){
+		String alien = "img/karakacil_probi1112.png";
+		Image im;
+		ImageIcon ii = new ImageIcon(this.getClass().getResource(alien));
+		im = ii.getImage();
+		setTitle("Crusher");
+		setSize(Width,Height);
+		setResizable(false);
+		setVisible(true);
+		setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
+		setBackground(Color.DARK_GRAY);
+		System.out.println("Start the game");	
+	}
+	
+	@Override
+	public void paint(Graphics g){
+		dbImage = createImage(getWidth(), getHeight());
+		dbg = dbImage.getGraphics();
+		draw(dbg);
+		g.drawImage(dbImage, 0, 0, this);
+	}
+	
+	public void draw(Graphics g){
+		b.draw(g);
+		
+		b.p1.draw(g);
+		b.p2.draw(g);
+		
+		g.setColor(Color.WHITE);
+		g.drawString(""+b.p1Score, 15, 50);
+		g.drawString(""+b.p2Score, 370, 50);
+		repaint();
+	}
+	
+	public static void main(String[] args) {
+		Game game = new Game();
+		
+		board = new Board();
+		Thread b1 = new Thread(board);
+		
+		b1.start();
+	}
+}
