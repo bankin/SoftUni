@@ -1,0 +1,28 @@
+import java.util.Calendar;
+import java.util.Date;
+import java.util.Scanner;
+
+public class _04_MagicDates {
+	public static void main(String[] args) {
+		Scanner scan = new Scanner(System.in);
+		
+		int startYear = scan.nextInt();
+		int endYear = scan.nextInt();
+		int magicWeight = scan.nextInt();
+		
+		Calendar calendar = Calendar.getInstance();
+		calendar.clear();	
+		calendar.set(Calendar.YEAR, startYear);
+		Date date = calendar.getTime();
+		
+		System.out.println(date);
+		
+		calendar.add(Calendar.DAY_OF_YEAR, 1);
+		
+		date = calendar.getTime();
+		int month = calendar.get(Calendar.MONTH);
+		int day = calendar.get(Calendar.DAY_OF_YEAR);
+		
+		System.out.println(date);
+	}
+}

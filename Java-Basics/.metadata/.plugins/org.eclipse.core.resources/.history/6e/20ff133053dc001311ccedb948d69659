@@ -1,0 +1,41 @@
+package ponggame;
+
+import java.awt.Color;
+import java.awt.Dimension;
+import java.awt.event.KeyAdapter;
+import java.awt.event.KeyEvent;
+
+import javax.swing.JFrame;
+
+public class Main extends JFrame{
+	
+	int GHEIGHT = 400;
+	int GWIDTH = 500;
+	
+	Dimension screenSize = new Dimension(GWIDTH, GHEIGHT);
+	
+	public class AL extends KeyAdapter {
+
+		public void keyPressed(KeyEvent e){
+		}
+		
+		public void keyReleased(KeyEvent e){
+	
+		}
+	}
+	
+	public Main(){
+		//Game
+		this.setTitle("Pong game");
+		this.setSize(screenSize);
+		this.setResizable(false);
+		this.setVisible(true);
+		this.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
+		setBackground(Color.DARK_GRAY);
+		addKeyListener(new AL());
+	}
+	
+	public static void main(String[] args) {
+		Main m = new Main();
+	}
+}

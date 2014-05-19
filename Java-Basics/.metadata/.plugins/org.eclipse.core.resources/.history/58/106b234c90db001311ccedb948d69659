@@ -1,0 +1,12 @@
+
+public class _03_Full_House {
+	
+	public static boolean checkFullHouse(String cards){
+		return false;
+	}
+	
+	public static void main(String[] args) {
+		
+		
+	}
+}

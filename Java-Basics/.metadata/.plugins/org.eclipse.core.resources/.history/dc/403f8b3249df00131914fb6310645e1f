@@ -1,0 +1,17 @@
+package LiveExamPreparation;
+
+import java.util.Scanner;
+
+public class _02_Pairs {
+	public static void main(String[] args) {
+		Scanner scan = new Scanner(System.in);
+		String input = scan.nextLine();
+		int maxPair, minPair;
+		
+		String[] numbers = input.split(" ");
+		
+		for (int i = 0; i < numbers.length - 1; i+= 2) {
+			int currentPairSum = Integer.parseInt(numbers[i]) + Integer.parseInt(numbers[i+1]);
+		}
+	}
+}

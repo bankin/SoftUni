@@ -1,0 +1,14 @@
+
+public class _05_Angle_Unit_Converter {
+	public static double degToRad(int deg){
+		
+	}
+	
+	public static double radToDeg(int rad){
+		
+	}
+	
+	public static void main(String[] args) {
+			
+	}
+}

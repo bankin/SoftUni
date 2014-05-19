@@ -1,0 +1,11 @@
+import java.util.Scanner;
+
+public class _02_Pairs {
+	public static void main(String[] args) {
+		Scanner scan = new Scanner(System.in);
+		String input = scan.nextLine();
+		String[] numbers = input.split(" ");
+		
+		
+	}
+}

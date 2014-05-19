@@ -1,0 +1,5 @@
+package ponggame;
+
+public class Paddle implements Runnable{
+	
+}

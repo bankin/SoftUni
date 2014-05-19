@@ -1,0 +1,24 @@
+package LiveExamPreparation;
+
+import java.util.Scanner;
+
+public class _01_Trigle {
+	public static void main(String[] args) {
+		Scanner scan = new Scanner(System.in);
+		
+		int xA = scan.nextInt();
+		int yA = scan.nextInt();
+		int xB = scan.nextInt();
+		int yB = scan.nextInt();
+		int xC = scan.nextInt();
+		int yC = scan.nextInt();
+		
+		
+		double distAB = getDistance(xA, yA, xB, yB);
+		
+	}
+
+	public static double getDistance(int xA, int yA, int xB, int yB) {
+		Math.sqrt(Math.pow(xB - xA, 2) + Math.pow(yB - yA, 2));
+	}
+}

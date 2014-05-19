@@ -1,0 +1,23 @@
+package ponggame;
+
+public class Paddle implements Runnable{
+
+	int x, y, yDirection,  id;
+	public Paddle(int x, int y, int id){
+		this.x = x;
+		this.y = y;
+	}
+	
+	@Override
+	public void run() {
+		// TODO Auto-generated method stub
+		try {
+			while(true){
+				
+			}
+		} catch (Exception e) {
+			System.err.println(e.getMessage());
+		}
+	}
+	
+}

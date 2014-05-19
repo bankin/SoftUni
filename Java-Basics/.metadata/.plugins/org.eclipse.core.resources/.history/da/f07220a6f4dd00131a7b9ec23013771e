@@ -1,0 +1,29 @@
+import java.util.Scanner;
+
+public class _02_Pairs {
+	public static void main(String[] args) {
+		Scanner scan = new Scanner(System.in);
+		String input = scan.nextLine();
+		String[] numbers = input.split(" ");
+		boolean first = true;
+		int maxPair = 0, minPair = 0;
+		
+		int[] pairs = new int[numbers.length/2];
+		
+		for (int i = 0; i < numbers.length - 1; i++) {
+			int currentPair = Integer.parseInt(numbers[i]) + Integer.parseInt(numbers[i+1]);
+			if (first) {
+				minPair = pairs[i];
+				maxPair = pairs[i];
+			}
+			else{
+				if(pairs[i] < minPair){
+					minPair = pairs[i];
+				}
+				if(pairs[i] > maxPair){
+					maxPair = pairs[i];
+				}
+			}
+		}
+	}
+}

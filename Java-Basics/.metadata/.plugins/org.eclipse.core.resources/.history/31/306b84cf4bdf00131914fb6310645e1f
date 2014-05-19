@@ -1,0 +1,28 @@
+package LiveExamPreparation;
+
+import java.util.Scanner;
+
+public class _03_House {
+	public static void main(String[] args) {
+		Scanner scan = new Scanner(System.in);		
+		int rows = scan.nextInt();
+		
+		for (int i = 0; i < rows/2; i++) {
+			printChar('.', rows/2 - i);
+			
+			
+			
+			
+			
+			
+			System.out.println();
+		}
+		
+	}
+
+	public static void printChar(char c, int i) {
+		for (int j = 0; j < i; j++) {
+			System.out.print(c);
+		}		
+	}
+}

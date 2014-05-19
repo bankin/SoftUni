@@ -33,7 +33,7 @@ public class _06_Formatting_Numbers {
 		return new StringBuilder(result).reverse().toString();
 	}
 	
-	public static void main(String[] args) {		
+	public static void main(String[] args) {
 		Scanner scan = new Scanner(System.in);
 		System.out.println("Input a");
 		Integer a = scan.nextInt();

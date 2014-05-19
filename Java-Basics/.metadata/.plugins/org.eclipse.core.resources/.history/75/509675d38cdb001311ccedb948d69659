@@ -1,0 +1,20 @@
+import java.util.Scanner;
+
+
+public class _05_Angle_Unit_Converter {
+	public static double degToRad(int deg){
+		return 0.0;
+	}
+	
+	public static double radToDeg(int rad){
+		return rad*180.0/Math.PI;
+	}
+	
+	public static void main(String[] args) {
+		Scanner scan = new Scanner(System.in);
+		
+		
+		System.out.println(radToDeg(3));
+		
+	}
+}

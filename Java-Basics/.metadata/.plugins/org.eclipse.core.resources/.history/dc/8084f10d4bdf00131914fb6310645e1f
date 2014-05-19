@@ -1,0 +1,17 @@
+package LiveExamPreparation;
+
+import java.util.Scanner;
+
+public class _03_House {
+	public static void main(String[] args) {
+		Scanner scan = new Scanner(System.in);		
+		int rows = scan.nextInt();
+		
+		printChar('.', 5);
+	}
+
+	public static String printChar(char c, int i) {
+		// TODO Auto-generated method stub
+		
+	}
+}

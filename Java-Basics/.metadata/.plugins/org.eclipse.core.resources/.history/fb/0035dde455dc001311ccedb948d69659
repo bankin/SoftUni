@@ -1,0 +1,15 @@
+package ponggame;
+
+public class Paddle implements Runnable{
+
+	public Paddle(){
+		
+	}
+	
+	@Override
+	public void run() {
+		// TODO Auto-generated method stub
+		
+	}
+	
+}

@@ -1,0 +1,45 @@
+
+public class _03_Full_House {
+	
+	public static boolean checkFullHouse(String cards){
+		return false;
+	}
+	
+	public static void generateSuits(String cards){
+		
+	}
+	
+	public static char generateCard(int value){
+		String card;
+		switch(value){
+		case 2:
+		case 3:
+		case 4:
+		case 5:
+		case 6:
+		case 7: 
+		case 8:
+		case 9: card = Integer.toString(value);
+		case 10: card = "T"; break;
+		case 11: card = "J"; break;
+		case 12: card = "Q"; break;
+		case 13: card = "K"; break;
+		case 14: card = "A"; break;
+		}
+	}
+	
+	public static void main(String[] args) {
+		for (int i = 2; i < 14; i++) {
+			for (int j = 2; j < 14; j++) {
+				for (int k = 2; k < 14; k++) {
+					for (int l = 2; l < 14; l++) {
+						for (int m = 0; m < 14; m++) {
+							
+						}
+					}
+				}
+			}
+		}
+		
+	}
+}

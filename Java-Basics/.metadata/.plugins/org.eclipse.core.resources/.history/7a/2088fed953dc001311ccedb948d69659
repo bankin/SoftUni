@@ -1,0 +1,48 @@
+package ponggame;
+
+import java.util.Random;
+
+public class Ball implements Runnable {
+	//Global variables
+	int x, y, xDirection, yDirection;
+	
+	public Ball(int x, int y){
+		this.x = x;
+		this.y = y;
+		
+		//Set ball moving randomly
+		Random r = new Random();
+		int rDir = r.nextInt(1);
+		if(rDir == 0){
+			rDir--;
+			setXDirection(rDir);
+		}
+		int yrDir = r.nextInt(1);
+		if(yrDir == 0){
+			yrDir--;
+			setYDirection(yrDir);
+		}
+	}
+	
+	public void setXDirection(int xDir){
+		this.xDirection = xDir;
+	}
+	
+	public void setYDirection(int yDir){
+		this.yDirection = yDir;
+	}
+	
+	@Override
+	public void run() {
+		// TODO Auto-generated method stub
+		try {
+			while(true){
+				
+			}
+		} catch (Exception e) {
+			System.err.println(e.getMessage());
+		}
+	}
+
+	
+}

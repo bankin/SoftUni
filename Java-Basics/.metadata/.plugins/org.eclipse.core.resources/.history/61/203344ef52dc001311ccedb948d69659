@@ -1,0 +1,52 @@
+package ponggame;
+
+import java.awt.Color;
+import java.awt.Dimension;
+import java.awt.Font;
+import java.awt.Graphics;
+import java.awt.Image;
+import java.awt.Rectangle;
+import java.awt.event.KeyAdapter;
+import java.awt.event.KeyEvent;
+import java.awt.event.MouseAdapter;
+import java.awt.event.MouseEvent;
+import java.io.File;
+
+import javagame.JavaGame;
+import javagame.JavaGame.AL;
+
+import javax.swing.ImageIcon;
+import javax.swing.JFrame;
+
+public class Main extends JFrame{
+	
+	private static final int GHEIGHT = ;
+	private static final int GWIDTH = 0;
+	
+	Dimension screenSize = new Dimension(GWIDTH, GHEIGHT);
+	
+	public class AL extends KeyAdapter {
+
+		public void keyPressed(KeyEvent e){
+		}
+		
+		public void keyReleased(KeyEvent e){
+	
+		}
+	}
+	
+	public Main(){
+		//Game
+		this.setTitle("Pong game");
+		this.setSize(screenSize);
+		this.setResizable(false);
+		this.setVisible(true);
+		this.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
+		setBackground(Color.DARK_GRAY);
+		addKeyListener(new AL());
+	}
+	
+	public static void main(String[] args) {
+		Main m = new Main();
+	}
+}
