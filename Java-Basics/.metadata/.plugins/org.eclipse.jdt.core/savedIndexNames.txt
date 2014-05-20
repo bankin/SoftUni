@@ -63,4 +63,3 @@ INDEX VERSION 1.126+E:\Programming\SoftUni\Java-Basics\.metadata\.plugins\org.ec
 1115467115.index
 1905737911.index
 1498219845.index
-717478382.index
