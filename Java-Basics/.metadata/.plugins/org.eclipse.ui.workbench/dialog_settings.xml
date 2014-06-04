@@ -1,21 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <section name="Workbench">
-	<section name="org.eclipse.ui.internal.QuickAccess">
-		<item value="1025" key="dialogWidth"/>
-		<item value="555" key="dialogHeight"/>
-		<list key="orderedProviders">
-		</list>
-		<list key="textArray">
-		</list>
-		<list key="orderedElements">
-		</list>
-		<list key="textEntries">
-		</list>
-	</section>
 	<section name="WorkbenchPreferenceDialogSettings">
 		<item value="22" key="DIALOG_Y_ORIGIN"/>
 		<item value="374" key="DIALOG_X_ORIGIN"/>
 	</section>
+	<section name="org.eclipse.ui.internal.QuickAccess">
+		<item value="555" key="dialogHeight"/>
+		<item value="1025" key="dialogWidth"/>
+		<list key="textEntries">
+		</list>
+		<list key="orderedElements">
+		</list>
+		<list key="orderedProviders">
+		</list>
+		<list key="textArray">
+		</list>
+	</section>
 	<section name="ImportExportAction">
+		<item value="org.eclipse.ui.wizards.export.ZipFile" key="ImportExportPage.STORE_SELECTED_EXPORT_WIZARD_ID"/>
+		<item value="org.eclipse.ui.wizards.import.ExternalProject" key="ImportExportPage.STORE_SELECTED_IMPORT_WIZARD_ID"/>
+		<list key="ImportExportPage.STORE_EXPANDED_IMPORT_CATEGORIES">
+			<item value="org.eclipse.ui.Basic"/>
+		</list>
+		<list key="ImportExportPage.STORE_EXPANDED_EXPORT_CATEGORIES">
+			<item value="org.eclipse.ui.Basic"/>
+		</list>
+	</section>
+	<section name="ZipFileExportWizard">
+		<item value="true" key="WizardZipFileResourceExportPage1.STORE_COMPRESS_CONTENTS_ID"/>
+		<item value="true" key="WizardZipFileResourceExportPage1.STORE_CREATE_STRUCTURE_ID"/>
+		<list key="WizardZipFileResourceExportPage1.STORE_DESTINATION_NAMES_ID">
+			<item value="C:\Users\Nikolay\Desktop\TeamZiostSpaceSiths.zip"/>
+			<item value="C:\Users\Nikolay\Desktop\Example.zip"/>
+		</list>
 	</section>
 </section>
