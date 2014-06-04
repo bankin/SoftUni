@@ -1,6 +1,0 @@
-
-public class _06_Formatting_Numbers {
-	public static void main(String[] args) {
-		Scanner scan = new Scanner(System.in);
-	}
-}

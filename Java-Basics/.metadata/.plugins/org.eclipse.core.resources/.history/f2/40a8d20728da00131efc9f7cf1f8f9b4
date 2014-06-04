@@ -1,8 +1,0 @@
-import java.util.Scanner;
-
-public class _08_Sort_Array_Of_Strings {
-	public static void main(String[] args) {
-		Scanner scan = new Scanner();
-		
-	}
-}

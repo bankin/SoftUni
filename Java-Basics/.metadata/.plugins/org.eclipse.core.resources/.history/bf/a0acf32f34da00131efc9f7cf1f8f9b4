@@ -1,6 +1,0 @@
-
-public class _05_Dec_To_Hex {
-	public static void main(String[] args) {
-		Scanner scan = new Scanner(System.in)''
-	}
-}

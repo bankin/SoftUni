@@ -1,7 +1,0 @@
-
-public class _01_Symmetric_Numbers_In_Range {
-	public static void main(String[] args) {
-		Scanner scan = new Scanner(System.in);
-		
-	}
-}

@@ -1,8 +1,0 @@
-
-public class _04_Smallest_Of_Three {
-	public static void main(String[] args) {
-		Scanner scan = new Scanner(System.in);
-		System.out.println("a = ");
-		System.out.println();
-	}
-}
