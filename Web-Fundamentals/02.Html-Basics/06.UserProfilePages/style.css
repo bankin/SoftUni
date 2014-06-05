@@ -1,0 +1,16 @@
+body{
+	background: skyblue;
+}
+
+.italic{
+	font-style: italic;
+}
+
+.tab{
+	margin-left: 30px;
+}
+
+p{
+	margin-top: -1px;
+	margin-bottom: -1px;
+}

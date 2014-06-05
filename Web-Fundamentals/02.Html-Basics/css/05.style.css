@@ -1,0 +1,49 @@
+body{
+	background: url('../img/slide-bk.png') no-repeat;
+	color: #fff;
+}
+
+p.title{
+	margin-top: 65px;
+	font-size: 55px;
+	font-weight: bold;	
+}
+
+.div-title{
+	width: 500px;
+}
+
+.div-title-image{
+	background: url('../img/square.png');
+	width: 8px;
+	height: 8px;
+	margin-top:18px;
+	margin-left:38px;
+	float: left;
+}
+
+.div-title-text{
+	font-size: 35px;
+	margin-left:10px;
+	float: left;
+}
+
+.section-data{
+	background: rgba(32,32,30,0.6);
+	width: 650px;
+	padding: 5px;
+	padding-left:10px;
+	margin: 10px 0px 5px 100px;
+	border: 1px solid #fff;
+	color: #F7EBC6;
+	font-size: 25px;
+	font-weight: bold;
+}
+
+.weird-color{
+	color: #F3BE60;
+}
+
+.clear{
+	clear:both;
+}
