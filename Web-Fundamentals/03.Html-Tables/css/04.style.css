@@ -1,0 +1,98 @@
+body{
+	color: #fff;
+}
+
+table{
+	font-size:18px;
+}
+
+#header-table{
+	background: #234465;
+	margin: 10px;
+	padding: 5px;
+	width:1300px;
+}
+
+.header-logo{
+	width: 280px;
+}
+
+.user-and-search{
+	float: right;
+}
+
+.user{
+	text-transform: uppercase;
+}
+
+input[type=text]{
+	width: 300px;
+	height: 30px;
+	margin-top: -5px;
+	border: 0;
+	padding: 3px;
+	margin-left: 15px;
+}
+
+input[type=submit]{
+	background: url('../img/search.png') no-repeat;
+	background-position:center; 
+	height: 30px;
+	width: 30px;
+	margin-left:-14px;
+	border: 0;
+}
+
+.navigation{
+	list-style: none;
+	text-transform: uppercase;
+	font-weight: bold;
+
+}
+
+.navigation > li{
+	float: left;
+	margin: 0px 4px;
+	cursor: pointer;
+	padding: 4px 8px;
+
+	border-radius: 5px;
+	-moz-border-radius: 5px;
+	-webkit-border-radius: 5px;
+}
+
+.navigation li > ul{
+	display: none;
+	position:absolute;
+	padding: 15px;
+	margin-top:3px;
+	background: #234465;
+	list-style: none;
+	color: #fff;
+}
+
+.navigation li > ul li {
+	border-bottom: 1px solid #ccc;
+	padding: 5px;
+}
+
+.navigation li > ul a {
+	color: #fff;
+	text-decoration: none;
+}
+
+.navigation li:hover{
+	background-color: #4CA0DB;
+}
+
+.navigation li:hover > ul{
+	display:block;
+}
+
+
+
+.border-radius{
+	border-radius: 5px;
+	-moz-border-radius: 5px;
+	-webkit-border-radius: 5px;
+}

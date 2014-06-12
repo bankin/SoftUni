@@ -1,0 +1,12 @@
+input[type=text]{
+	text-align: right;
+	height: 35px;
+	margin-left:4px;
+	width:210px;
+	font-size:18px;
+}
+
+.button{
+	width: 50px;
+	height: 50px;
+}

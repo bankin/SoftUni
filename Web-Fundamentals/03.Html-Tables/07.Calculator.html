@@ -1,0 +1,56 @@
+<!doctype>
+<html>
+<head>
+	<title>07. ***Calculator</title>
+	<link rel="stylesheet" type="text/css" href="css/07.style.css">
+	<script type="text/javascript" src="js/jquery-2.1.1.min.js"></script>
+</head>
+<body>
+	<script type="text/javascript">
+		$(document).ready(function() {
+			$("button").click(function(){				
+				var value = $("input[type=text]").val();
+				if(this.name == "C"){
+					value = '0';
+				}
+				else if(this.name == "="){
+					value = eval(value);
+				}
+				else{
+					value += this.name;
+				}
+				$("input[type=text]").val(value);
+			});
+		});
+	</script>
+
+	<table>
+		<tr colspan="4"> <input type="text" name="display" value="0" disabled/> </tr>
+		<tr>
+			<td> <button name="1" class="button">1</button> </td>
+			<td> <button name="2" class="button">2</button> </td>
+			<td> <button name="3" class="button">3</button> </td>
+			<td> <button name="+" class="button">+</button> </td>
+		</tr>
+		<tr>
+			<td> <button name="4" class="button">4</button> </td>
+			<td> <button name="5" class="button">5</button> </td>
+			<td> <button name="6" class="button">6</button> </td>
+			<td> <button name="-" class="button">-</button> </td>
+		</tr>
+		<tr>
+			<td> <button name="7" class="button">7</button> </td>
+			<td> <button name="8" class="button">8</button> </td>
+			<td> <button name="9" class="button">9</button> </td>
+			<td> <button name="*" class="button">*</button> </td>
+		</tr>
+		<tr>
+			<td> <button name="C" class="button">C</button> </td>
+			<td> <button name="0" class="button">0</button> </td>
+			<td> <button name="=" class="button">=</button> </td>
+			<td> <button name="/" class="button">/</button> </td>
+		</tr>
+
+	</table>
+</body>
+</html>
