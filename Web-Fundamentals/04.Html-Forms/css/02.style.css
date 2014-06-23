@@ -1,0 +1,17 @@
+section{
+	width:520px;
+	background: #F2A5EF;
+	padding:5px;
+}
+
+section header{
+	text-align: center;
+}
+
+label{
+	display:block;
+}
+
+table td{
+	width:250px;
+}

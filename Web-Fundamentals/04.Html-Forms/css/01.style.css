@@ -1,0 +1,97 @@
+#content{
+	background: #eee;
+	width:760px;
+	color:#5e5e5e;
+}
+
+#content::after{
+	content: ".";  
+	display: block; 
+	height: 0; 
+	clear: both; 
+	visibility: hidden;
+}
+
+	#content h1{
+		color: #234465;
+		padding: 5px;
+		margin-bottom: 0px;
+	}
+
+		#content h1>span{
+			font-size: 14px;
+			display: block;
+			color:#ccc;
+		}
+
+	#content #register{
+		margin:5px;
+		padding:10px;
+		float: left;
+		width:350px;
+		height: 300px;
+	}
+		#content #register header {
+			text-transform: uppercase;
+		}
+
+			#content #register header span{
+				color:#234465;
+			}
+
+		#content #register>form input{
+			
+		}
+
+			#content #register>form>header>span{
+
+			}
+
+	#content #login{
+		margin:5px;
+		padding:10px;
+		float: right;
+		width:350px;
+		background: #234465;	
+		color: #fff;
+		height: 300px;
+	}
+
+		#content #login form header{
+			text-transform: uppercase;
+		}
+
+		#content #login form button{
+			color:#fff;
+			border: 2px solid #ff9c00;
+		}
+
+
+
+input[type="text"], input[type="email"], input[type="password"]{
+	width:100%;
+	height: 41px;
+	margin-bottom: 10px;
+	padding: 5px;
+	line-height: 17px;
+	background-color: #fff;    
+	border: 1px solid #ccc;
+	box-shadow: 0 1px 1px rgba(0, 0, 0, 0.075) inset;
+	color: #555;
+	font-size: 14px;
+	display:block;
+}
+
+button{
+	display: block;
+	background: none;
+	border:0;
+	float: right;
+	border: 2px solid #234465;
+    color: #234465;
+    padding: 10px 7px;
+    text-align: center;
+    width: 180px;
+    font-weight: bold;
+    height:;
+}

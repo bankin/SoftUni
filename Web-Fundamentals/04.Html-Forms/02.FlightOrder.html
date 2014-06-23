@@ -1,0 +1,48 @@
+<!doctype>
+<html>
+<head>
+	<title>02. Flight Order</title>
+	<link rel="stylesheet" type="text/css" href="css/02.style.css" />
+</head>
+<body>
+	<section id="content">
+		<header>
+			<h1>Flight Order</h1>
+		</header>
+		<form id="order">
+			<table>
+				<tr>
+					<td valign="top">
+						<label for="from-city">From</label>
+						<select id="from-city" name="from-city">
+							<option value="0">Enter a city</option>
+							<option value="1">Sofia</option>
+							<option value="2">Plovdiv</option>
+							<option value="3">Burgas</option>
+							<option value="4">Miami</option>
+						</select>
+					</td>
+					<td>
+						<label for="to-city">To</label>
+						<select id="to-city" name="to-city">
+							<option value="0">Enter a city</option>
+							<option value="1">Sofia</option>
+							<option value="2">Plovdiv</option>
+							<option value="3">Burgas</option>
+							<option value="4">Miami</option>
+						</select>
+						<label for="prefer-direct">Prefer directs</label>
+						<input type="checkbox" name="prefer-directs" id="prefer-direct" value="" />
+					</td>
+				</tr>
+				<tr>
+					<td>
+						<label for="departure-date">Departure date</label>
+						<input type="datetime" name="departure-date" id="departure-date" value="" />
+					</td>
+				</tr>
+			</table>
+		</form>
+	</section>
+</body>
+</html>
