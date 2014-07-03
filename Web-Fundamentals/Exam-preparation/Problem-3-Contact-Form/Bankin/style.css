@@ -1,0 +1,72 @@
+@import url('http://fonts.googleapis.com/css?family=Montserrat:400,700');
+
+body{
+	font-family: 'Montserrat';
+	background: url('img/background.jpg');
+	background-size: cover;
+}
+
+#wrapper{
+	width: 520px;
+	height: 525px;
+	margin: 0px auto;
+}
+
+form{
+	background: rgba(0,0,0,0.3);
+	padding: 75px 25px 25px 25px;
+
+}
+
+input, textarea, button{
+	width: 100%;
+	margin-bottom: 30px;
+	font-size: 17px;
+	font-family: 'Montserrat';
+}
+
+input{
+	height: 50px;
+	padding-left: 5px;
+	line-height: 40px;
+}
+
+input[type="text"]{
+	background: url('img/name.svg') #fff no-repeat;
+	background-size: 30px 30px;
+	background-position: 5px 10px;
+	padding-left: 40px;
+	border: 0px;
+}
+
+input[type="email"]{
+	background: url('img/email.svg') #fff no-repeat;
+	background-size: 30px 30px;
+	background-position: 5px 10px;
+	padding-left: 40px;
+	border: 0px;
+}
+
+textarea{
+	background: url('img/comment.svg') #fff no-repeat;
+	background-size: 30px 30px;
+	background-position: 5px 10px;
+	padding-left: 40px;
+	border: 0px;
+	padding-top:15px;
+	height: 130px;
+}
+
+button{
+	background: #3598db;
+	color:#fff;
+	text-align:center;
+	border: 3px solid #fff;
+	height: 70px;
+	font-weight: bold;
+	text-transform: uppercase;
+}
+
+input:focus, button:focus,textarea:focus{
+	outline: #3598db solid 3px;
+}

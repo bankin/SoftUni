@@ -1,0 +1,265 @@
+﻿body, ul, header, footer, section, article, ul, li, a, span, nav, h1, h2, h3, aside, div {
+    box-sizing: border-box;
+    margin: 0;
+    moz-box-sizing: border-box;
+    padding: 0;
+    webkit-box-sizing: border-box;
+}
+
+html {
+    background-attachment: fixed;
+    background-image: url('site-background.jpg');
+}
+
+body {
+    font-family: Tahoma;
+}
+
+    body #wrapper {
+        display: flex;
+        flex-flow: row wrap;
+        font-size: 16px;
+        justify-content: space-between;
+        margin: 0 auto;
+        ms-flex-flow: row wrap;
+        position: relative;
+        width: 960px;
+    }
+
+        body #wrapper > header {
+            background: rgba(176, 224, 244, 0.8);
+            display: flex;
+            flex-flow: row wrap;
+            flex-grow: 4;
+            justify-content: space-between;
+            margin-bottom: 35px;
+            ms-flex-flow: row wrap;
+            order: 1;
+            padding: 15px;
+            padding-bottom: 25px;
+            vertical-align: bottom;
+            width: 100%;
+        }
+
+            body #wrapper > header h1 {
+                font-size: 2.5em;
+                font-weight: bold;
+                margin: 0 auto;
+                text-align: left;
+                vertical-align: bottom;
+                width: 100%;
+            }
+
+                body #wrapper > header h1 a {
+                    color: #000000;
+                    display: flex;
+                    display: inline-block;
+                    flex-flow: row wrap;
+                    justify-content: space-between;
+                    ms-flex-flow: row wrap;
+                    text-decoration: none;
+                    vertical-align: text-bottom;
+                }
+
+                    body #wrapper > header h1 a span {
+                        margin-left: 30px;
+                    }
+
+                    body #wrapper > header h1 a img {
+                        height: 50px;
+                    }
+
+            body #wrapper > header nav {
+                margin-top: 20px;
+                width: 100%;
+            }
+
+                body #wrapper > header nav ul {
+                    display: flex;
+                    flex-flow: row wrap;
+                    justify-content: flex-end;
+                    list-style-type: none;
+                    ms-flex-flow: row wrap;
+                    width: 100%;
+                }
+
+                    body #wrapper > header nav ul li {
+                        background: #224465;
+                        border: 1px solid rgb(176, 224, 244);
+                        display: inline-block;
+                        font-size: 1.1em;
+                        margin-left: 10px;
+                        padding: 5px;
+                        position: relative;
+                        text-align: center;
+                        width: 150px;
+                    }
+
+                        body #wrapper > header nav ul li:hover {
+                            background: rgba(176, 224, 244, 1);
+                            border: 1px solid #224465;
+                        }
+
+                            body #wrapper > header nav ul li:hover > a {
+                                color: #224465;
+                            }
+
+                        body #wrapper > header nav ul li a {
+                            color: rgba(176, 224, 244, 1);
+                            display: inline-block;
+                            padding: 5px 15px;
+                            text-decoration: none;
+                        }
+
+        body #wrapper > aside {
+            display: flex;
+            flex-flow: row wrap;
+            height: 100%;
+            justify-content: space-between;
+            ms-flex-flow: row wrap;
+            order: 5;
+            width: 29%;
+        }
+
+            body #wrapper > aside div {
+                background: rgba(176, 224, 244, 0.8);
+                filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#4ca0db', endColorstr='90%', GradientType=1);
+                margin-bottom: 15px;
+                padding: 15px;
+                width: 100%;
+            }
+
+                body #wrapper > aside div.news ul li {
+                    border-bottom: 1px solid black;
+                    margin: 5px 0;
+                }
+
+                    body #wrapper > aside div.news ul li a {
+                        color: black;
+                        padding: 5px 0 5px 0;
+                    }
+
+                    body #wrapper > aside div.news ul li:last-of-type {
+                        border: none;
+                    }
+
+                    body #wrapper > aside div.news ul li:hover a {
+                        text-decoration: underline;
+                    }
+
+                body #wrapper > aside div ul {
+                    list-style-type: none;
+                }
+
+                    body #wrapper > aside div ul li a {
+                        color: #000000;
+                        display: inline-block;
+                        text-decoration: none;
+                    }
+
+                        body #wrapper > aside div ul li a img {
+                            vertical-align: middle;
+                        }
+
+                        body #wrapper > aside div ul li a span {
+                            vertical-align: middle;
+                        }
+
+                    body #wrapper > aside div ul li:hover a span {
+                        text-decoration: underline;
+                    }
+
+        body #wrapper > section {
+            order: 2;
+            width: 70%;
+        }
+
+            body #wrapper > section article {
+                background: rgba(176, 224, 244, 0.8);
+                margin-bottom: 13px;
+                padding: 15px;
+            }
+
+                body #wrapper > section article header {
+                    margin: 0 auto;
+                    width: 100%;
+                }
+
+                    body #wrapper > section article header h1 {
+                        font-size: 1.7em;
+                    }
+
+                body #wrapper > section article > div p {
+                    text-align: justify;
+                    text-indent: 2em;
+                }
+
+                body #wrapper > section article footer {
+                    margin: 0 auto;
+                    width: 100%;
+                }
+
+        body #wrapper > footer {
+            background: rgba(176, 224, 244, 0.8);
+            float: left;
+            height: 70px;
+            order: 10;
+            padding: 15px;
+            text-align: center;
+            width: 100%;
+        }
+
+            body #wrapper > footer h2 {
+                font-size: 1.3em;
+                height: 100%;
+                margin: 5px;
+                vertical-align: middle;
+            }
+
+                body #wrapper > footer h2 a {
+                    color: black;
+                }
+
+@media all and (max-width: 960px) {
+    body #wrapper {
+        width: 100%;
+    }
+}
+
+@media all and (max-width: 780px) {
+    body #wrapper > header nav ul {
+        justify-content: space-between;
+    }
+
+        body #wrapper > header nav ul li {
+            width: 23%;
+        }
+
+    body #wrapper > header h1 a {
+        justify-content: center;
+    }
+}
+
+@media all and (max-width: 640px) {
+    body #wrapper > section {
+        width: 100%;
+    }
+
+    body #wrapper > aside {
+        width: 100%;
+    }
+
+    body #wrapper > header nav ul li {
+        width: 100%;
+    }
+
+    body #wrapper > aside div {
+        width: 50%;
+    }
+}
+
+@media all and (max-width: 480px) {
+    body #wrapper > aside div {
+        width: 100%;
+    }
+}

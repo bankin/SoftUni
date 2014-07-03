@@ -1,0 +1,93 @@
+body{
+	font-family: Open Sans,Helvetica Neue, Helvetica, Arial, sans-serif;
+	margin:0px;
+}
+
+#wrapper{
+	width:960px;
+	margin:0px auto;
+}
+
+header{
+	background: url('img/header-bg.png');
+}
+
+header > div{
+	content:"";
+	display:block;
+	zoom:1;
+	clear:both;
+}
+
+h3{
+	float: left;
+	color: #575e5b;
+	text-transform: uppercase;
+	margin-left: 5px;
+}
+
+nav, input{
+	float:right;
+}
+
+nav{
+	margin: 17px 5px;
+}
+
+nav a{
+	color: #3333ff;
+	text-decoration: none;
+	margin: 0px 5px;
+}
+
+nav a:hover{
+	color:#0000aa;
+}
+
+#searchbar{
+	background: #000;
+	height: 40px;
+	color: #b9b98e;
+	padding: 5px;
+}
+
+#searchbar a{
+	color: #c6c6c6;
+	text-decoration: none;
+	line-height: 40px;
+}
+
+#searchbar a:hover{
+	color:#fff;
+}
+
+#searchbar a:first-child{
+	margin-left: 10px;
+}
+
+#searchbar input{
+	margin-top: 10px;
+	margin-right: 10px;
+	border-radius:15px;
+	background: #000;
+	color: #fff;
+	padding-left: 5px;
+	border: 1px solid #ccc;
+	width: 180px;
+}
+
+#searchbar input:focus{
+	outline: #26487f solid 2px;
+}
+
+section{
+	color: #575e5b;
+	padding: 15px;
+	border: 1px dotted #eeeeee;
+	font-size:15px;
+	text-align: justify;
+}
+
+h1{
+	color: #575e5b;
+}

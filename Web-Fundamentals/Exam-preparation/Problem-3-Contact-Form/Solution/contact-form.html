@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+	<meta charset="utf-8">
+	<title>Contact Form</title>
+	<link href="styles.css" rel="stylesheet" />
+</head>
+
+<body>
+<div id="form-main">
+  <div id="form-div">
+    <form class="form" id="form1">
+      
+      <p class="name">
+        <input name="name" type="text" class="validate[required,custom[onlyLetter],length[0,100]] feedback-input" placeholder="Name" id="name" required="required" pattern="\w+" />
+      </p>
+      
+      <p class="email">
+        <input name="email" type="email" class="validate[required,custom[email]] feedback-input" id="email" placeholder="Email" required="required" />
+      </p>
+      
+      <p class="text">
+        <textarea name="text" class="validate[required,length[6,300]] feedback-input" id="comment" placeholder="Comment" required="required"></textarea>
+      </p>      
+      
+      <div class="submit">
+        <input type="submit" value="SEND" id="button-blue"/>
+        <div class="ease"></div>
+      </div>
+    </form>
+  </div>
+</div>
+</body>
