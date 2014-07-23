@@ -1,0 +1,125 @@
+@font-face {
+    font-family: Yao-Regular;
+    src: url(fonts/yanonekaffeesatz-regular-webfont.ttf);
+}
+
+body{
+	font-family: Yao-Regular, Arial, sans-serif;
+	background: url('img/form-background.png') repeat;
+}
+
+#wrapper{
+	width:960px;
+	margin: 0px auto;
+}
+
+.heading{
+	text-align: center;
+	color: #7c7873;
+	font-weight: bold;
+	font-size: 45px;
+	margin:0px;
+}
+
+#envelope{
+	margin:20px auto 0px auto;
+	width:530px;
+	height: 600px;
+}
+
+#mail-top{
+	background: url('img/envelope-top.png');
+	width:530px;
+	height: 316px;
+	position:relative;
+	float:left;
+	z-index:1;
+	top:270;
+}
+
+#form-div{
+	background: url('img/letter-background.png');
+	width: 470px;
+	height: 550px;
+	position:relative;	
+	z-index:2;
+	margin:0px auto;
+	padding-bottom: 50px;
+	border-radius: 3px;
+	border: 1px solid #c2beb6;
+}
+
+	#form-div form{
+		position: absolute;
+		padding: 15px;
+	}
+
+		#form-div form label{
+			font-size: 30px;
+			color:#7c7873;
+		}
+
+
+		#form-div form label p{
+			margin:0px;
+			font-size: 20px;
+			color:#b3aba1;
+			text-transform: uppercase;
+		}
+
+		#form-div form textarea,
+		#form-div form input{
+			background: none;
+			width:440px;
+			height: 150px;
+			border:1px solid #e4ded3;
+			border-radius: 5px;
+			margin-bottom:10px;
+			padding:5px;
+			font-family: Helvetica, Arial, serif;
+		}
+
+		#form-div form input{
+			height: 30px;
+			line-height: 30px;
+		}
+
+		#form-div form textarea:focus,
+		#form-div form input:focus{
+			background: #f7f3ee;
+		}
+
+		#form-div form .submit-div{
+			margin-left:220px;
+			margin-top:10px;
+		}
+		#form-div form input[type="submit"]{
+			background: none;
+			border:none;
+			color:#7c7873;
+			font-size: 30px;
+			line-height: 40px;
+			height:50px;
+			width:auto;
+			font-family:Yao-Regular;
+			cursor:pointer;
+			margin-left:-70px;
+		}
+
+		#form-div form input[type="submit"]:hover{
+			background-color: #bbc9cf;
+			color:#435c70;
+		}
+#group-top{
+	float:left;
+}
+
+#mail-bot{
+	background: url('img/envelope-bottom.png');
+	width:530px;
+	height: 260px;
+	position:relative;
+	top:455px;
+	z-index:3;
+}
+

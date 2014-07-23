@@ -1,0 +1,217 @@
+@import url(http://fonts.googleapis.com/css?family=Nunito);
+@font-face {
+    font-family: Fairview;
+    src: url(fonts/Fairview_Regular.otf);
+}
+body{
+	font-family: 'Nunito', Arial, sans-serif;
+	margin: -5px;
+	overflow-x:hidden;
+	font-size:14px;
+}
+
+#wrapper{
+	width: 670px;
+	margin: 0px auto;
+}
+
+	#wrapper #header{
+		font-family: Fairview, Helvetica, sans-serif;
+		background: none repeat scroll 0 0 #E05E43;
+		height: 125px;
+		text-align: center;
+		position:relative;
+	}
+		#wrapper #header::before, 
+		#wrapper #header::after{
+			background: none repeat scroll 0 0 #E05E43;
+		    bottom: 0;
+		    content: "";
+		    position: absolute;
+		    top: 0;
+		    width: 9999px;
+		}
+
+		#wrapper #header::before{
+			right: 100%;
+		}
+
+		#wrapper #header::after{
+			left: 100%;
+		}
+
+		#wrapper #header a{
+			color: #fff;
+			text-decoration: none;
+			font-weight: bold;
+			font-size: 125px;			
+		}
+
+		#wrapper #header a:hover{
+			color:#000;
+		}
+
+
+	#wrapper #nav{
+		text-align: center;
+		font-family: Fairview;
+		font-size:30px;
+		color: #666;
+	}
+
+		#wrapper #nav ul{
+			margin:0px;
+			list-style: none;
+			display: flex;
+			flex-direction: row;
+			flex-wrap: nowrap;
+			justify-content: space-around;
+		}
+
+		#wrapper #nav ul li{			
+			margin: 5px;
+			padding: 5px 10px;
+		}
+
+			#wrapper #nav ul li a{
+				text-decoration: none;
+				color:inherit;
+			}
+
+			#wrapper #nav ul li a:hover{
+				color: #000;
+			}
+
+		#wrapper #nav ul li.nav-selected{
+			background-color: #E05E43;
+			color: #fff;
+		}
+
+			#wrapper #nav ul li.nav-selected a:hover{
+				color: #000;
+			}
+	#wrapper #content{
+
+	}
+
+		#wrapper #content .month-schedule > h4{
+			width:100%;
+			padding-bottom:15px;
+			border-bottom:1px solid #ddd;
+			margin-bottom: 0px;
+		}
+
+
+		#wrapper #content .month-schedule .table > div{
+			float: left;
+			padding:5px;
+			margin:5px 5px 5px 0px;
+		}
+
+			#wrapper #content .month-schedule .table .table-header{
+				font-weight: bold;
+			}
+
+			#wrapper #content .month-schedule .table .table-date{
+				width:210px;
+			}
+
+			#wrapper #content .month-schedule .table .table-time{
+				width:160px;
+			}
+
+			#wrapper #content .month-schedule .table .table-program{
+				width:250px;
+			}
+
+				#wrapper #content .month-schedule .table .table-program a{
+					text-decoration: none;
+					color: #AA0000;
+					border-bottom: 1px dotted #AA0000;
+				}
+
+				#wrapper #content .month-schedule .table .table-program a:hover{
+					border-bottom: 1px solid #AA0000;
+					color: #000;
+				}
+
+		#wrapper #content .month-schedule .table::after{
+			content:"";
+			zoom:1;
+			display:block;
+			clear:both;
+		}
+
+	#wrapper #footer{		
+		background: none repeat scroll 0 0 #222;
+		text-align: center;
+		position:relative;
+		padding:10px;
+	}
+		#wrapper #footer::before, 
+		#wrapper #footer::after{
+			background: none repeat scroll 0 0 #222;
+		    bottom: 0;
+		    content: "";
+		    position: absolute;
+		    top: 0;
+		    width: 9999px;
+		}
+
+		#wrapper #footer::before{
+			right: 100%;
+		}
+
+		#wrapper #footer::after{
+			left: 100%;
+		}
+
+			#wrapper #footer ul{
+				padding:0;
+				width:100%;
+				border-bottom: 1px solid #3b3b3b;
+				list-style: none;
+				display: flex;
+				flex-direction: row;
+				flex-wrap: nowrap;
+				justify-content: center;
+			}
+
+				#wrapper #footer ul li{			
+					margin: 5px;
+					padding: 5px 10px;
+					font-weight: bold;
+					width:70px;
+				}
+
+				#wrapper #footer ul li a{
+					text-decoration: none;
+					color: #aaa;
+					padding: 5px;
+				}
+				
+				#wrapper #footer ul li a:hover{
+					background-color: #aaa;
+					color:#aa2624;
+				}
+
+			#wrapper #footer .info p{
+				margin: 0px;
+				color: #555;
+				margin-top:15px;
+			}
+
+			#wrapper #footer .info .softuni-address{
+				margin: 0px;
+			}
+
+			#wrapper #footer .info a{
+				margin:0px;
+				padding:0px;
+				text-decoration: none;
+				color:#555;
+			}
+
+			#wrapper #footer .info a:hover p{
+				color: #aaa;
+			}

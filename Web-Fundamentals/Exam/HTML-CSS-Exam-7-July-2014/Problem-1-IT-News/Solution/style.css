@@ -1,0 +1,45 @@
+body{
+	font-family: Verdana, Arial, Helvetica;
+	font-size: 13px;
+}
+
+#wrapper{
+	width: 610px;
+}
+
+.article{
+	width:280px;
+	margin: 5px;
+	border: 1px solid #CBCBCB;
+	padding: 5px;
+	box-shadow: 3px 3px 5px #CBCBCB;
+	float: left;
+}
+
+	.article p{
+		margin:0px;
+	}
+
+	.article .title{
+		font-weight: bold;
+	}
+
+		.article .title a{
+			text-decoration: none;
+			color: #000;
+		}
+
+		.article .title a:hover{
+			text-decoration: underline;
+		}
+
+	.article .datetime{
+		font-size: 10px;	
+		color:#54555A;
+	}
+
+	.article img{
+		float:left;
+		margin: 4px;
+		margin-bottom: 6px;
+	}
