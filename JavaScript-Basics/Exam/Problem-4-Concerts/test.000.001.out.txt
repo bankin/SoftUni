@@ -1,0 +1,1 @@
+{"Buenos Aires":{"River Plate Stadium":["Iron Maiden"]},"London":{"Olympic Stadium":["Metallica"],"Wembley Stadium":["Helloween","Iron Maiden","Twisted Sister","ZZ Top"]},"Sofia":{"Lokomotiv Stadium":["Iron Maiden","Metallica"],"Vassil Levski Stadium":["Helloween","Iron Maiden"]}}
