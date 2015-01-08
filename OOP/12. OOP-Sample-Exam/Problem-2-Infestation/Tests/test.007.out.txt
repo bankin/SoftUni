@@ -1,0 +1,5 @@
+Marine Raynor (Biological) [Health: 10, Power: 4, Aggression: 1, Supplements: [WeaponrySkill]]
+Tank BigMan (Mechanical) [Health: 20, Power: 25, Aggression: 25, Supplements: []]
+Parasite Parazitus (Biological) [Health: 1, Power: 1, Aggression: 1, Supplements: []]
+Marine Raynor (Biological) [Health: 10, Power: 3, Aggression: 21, Supplements: [WeaponrySkill, InfestationSpores]]
+Tank BigMan (Mechanical) [Health: 20, Power: 25, Aggression: 25, Supplements: []]

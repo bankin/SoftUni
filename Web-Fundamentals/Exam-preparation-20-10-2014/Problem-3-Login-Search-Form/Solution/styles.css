@@ -1,0 +1,40 @@
+body {
+  background: url(blurred-green-background.jpg) no-repeat center center fixed;
+  background-size: cover;
+  line-height: 2.1em !important;
+  font-family: Arial, Helvetica, sans-serif;
+}
+.login-form {
+  border-radius: 5px 5px 0 0;
+  box-shadow: 0 0 7px rgba(0, 0, 0, 0.3);
+  width: 350px;
+  margin: 0 auto;
+}
+.login-form .login-body {
+  background: rgba(255, 255, 255, 0.8);
+  padding: 20px 15px 30px 15px;
+}
+.login-form .login-body form {
+  margin-top: 10px;
+}
+.login-form .login-body .btn-success {
+  box-shadow: 0px 4px 0px #229e22;
+  width: 100% !important;
+  margin-top: 20px;
+}
+.login-form h4 {
+  width: 100%;
+  background: #fff;
+  text-align: center;
+  margin: 0;
+  background: #93d55c;
+  padding: 10px;
+  color: #fff;
+  text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.3);
+  border-radius: 5px 5px 0 0;
+  font-weight: bold;
+}
+.search-form {
+  width: 350px;
+  margin: 0 auto;
+}

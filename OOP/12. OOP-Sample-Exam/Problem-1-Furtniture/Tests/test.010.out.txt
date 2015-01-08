@@ -1,0 +1,11 @@
+Company Pesho created
+Chair Gosho created
+Furniture Gosho added to company Pesho
+Pesho - 1234567890 - 1 furniture
+Type: ConvertibleChair, Model: Gosho, Material: Leather, Price: 1.00, Height: 2.00, Legs: 6, State: Normal
+Chair Gosho converted
+Pesho - 1234567890 - 1 furniture
+Type: ConvertibleChair, Model: Gosho, Material: Leather, Price: 1.00, Height: 0.10, Legs: 6, State: Converted
+Chair Gosho converted
+Pesho - 1234567890 - 1 furniture
+Type: ConvertibleChair, Model: Gosho, Material: Leather, Price: 1.00, Height: 2.00, Legs: 6, State: Normal

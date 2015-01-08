@@ -1,0 +1,23 @@
+Vacation created.
+Excursion created.
+Excursion created.
+Cruise created.
+Destination created.
+Destination created.
+Destination created.
+Added destination to US travel.
+Added destination to US travel.
+Added destination to Dunavska prikazka.
+Added destination to Transatlantic cruise.
+ * Excursion: name=US travel,start-date=12-Jan-2015,end-date=29-Jan-2015,price=800.80,transport=plane
+ ** Destinations: Destination: location=New York,landmark=Statue of Liberty;Destination: location=California,landmark=Yosemite National Park
+Removed destination from US travel.
+Destination deleted.
+ * Excursion: name=Dunavska prikazka,start-date=6-Nov-2014,end-date=24-Dec-2014,price=1350.22,transport=motorboat
+ ** Destinations: Destination: location=Budapest,landmark=Chain Bridge
+ * Cruise: name=Transatlantic cruise,start-date=2-Jan-2015,end-date=16-Jan-2015,price=1778.00,transport=cruise liner
+ ** Destinations: -
+ * Excursion: name=US travel,start-date=12-Jan-2015,end-date=29-Jan-2015,price=800.80,transport=plane
+ ** Destinations: -
+ * Vacation: name=Vakanciq,start-date=22-Jun-2015,end-date=4-Jul-2015,price=3400.00,location=Caribbean Sea,accommodation=hut
+

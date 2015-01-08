@@ -1,0 +1,14 @@
+insert Dog sharo
+insert Dog djaro
+proceed
+status
+supplement AggressionCatalyst sharo
+supplement AggressionCatalyst sharo
+supplement HealthCatalyst djaro
+supplement HealthCatalyst djaro
+supplement PowerCatalyst sharo
+proceed
+status
+proceed
+status
+end

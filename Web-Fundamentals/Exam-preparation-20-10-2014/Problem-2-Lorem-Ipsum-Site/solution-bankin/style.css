@@ -1,0 +1,136 @@
+body{
+	font-family: Tahoma, sans-serif;
+	margin-top:-5px;
+}
+
+header, footer{
+	width:920px;
+	margin: 0px auto;
+	height:100px;
+}
+
+#content{
+	width: 840px;
+	margin: 0px auto;
+}
+
+header{
+	background-color: #eee;
+	margin: 0px auto;
+
+}
+
+body > main > header > ul {
+	display: inline-block;
+}
+
+	body > main > header > ul > li {
+		display: inline-block;
+		margin: 10px 17px;
+		padding: 10px;
+	}
+
+		body > main > header > ul > li > a{
+			text-decoration: none;
+			color:#818181;
+			font-weight: bold;
+			padding:15px;
+		}
+
+		body > main > header > ul > li > a:hover{
+			background-color:#cad1d1;
+			border-radius: 5px;
+		}
+
+		body > main > header > ul > li > a.selected_item{
+			color:#f99600;
+		}
+
+body > main > header > img{
+	display: inline-block;
+	vertical-align: middle;
+	margin-left: 30px;
+	margin-top: -10px;
+}
+
+#content{
+	color:#3e3e3e;
+}
+
+h1{
+	font-weight: normal;
+}
+
+article{
+	width: 400px;
+	padding:5px;
+	display: inline-block;
+	vertical-align: top;
+	color: #585858;
+	font-size:15px;
+}
+
+article p{
+	margin-bottom:40px;
+}
+
+footer{
+	border-top: 1px solid #d8d8d8;
+	padding: 10px;
+	background-color: #eee;
+}
+
+span{
+	float: left;
+	font-size:12px;
+	color: #585858;
+	margin-left:20px;
+	margin-top: 40px;
+}
+
+footer ul{
+	float:right;
+	list-style: none;
+	margin-right:30px;
+	margin-top:30px;
+}
+
+footer ul li{
+	float:left;
+	width:30px;
+	height:30px;
+	cursor: pointer;
+	margin: 0px 10px;
+}
+
+footer ul li.facebook{
+	background: url('img/icons.png');
+}
+
+footer ul li.facebook:hover{
+	background: url('img/icons.png') 30px 0px;
+}
+
+footer ul li.google-plus{	
+	background: url('img/icons.png') 0px -40px;
+}
+
+footer ul li.google-plus:hover{	
+	background: url('img/icons.png') 30px -40px;
+}
+
+footer ul li.twitter{	
+	background: url('img/icons.png') 0px -80px;
+}
+
+footer ul li.twitter:hover{	
+	background: url('img/icons.png') 30px -80px;
+}
+
+footer ul li.tumblr{	
+	background: url('img/icons.png') 0px -120px;
+}
+
+footer ul li.tumblr:hover{	
+	background: url('img/icons.png') 30px -120px;
+}

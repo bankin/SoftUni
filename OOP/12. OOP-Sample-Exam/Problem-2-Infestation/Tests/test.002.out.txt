@@ -1,0 +1,5 @@
+Dog sharo (Biological) [Health: 4, Power: 5, Aggression: 2, Supplements: []]
+Dog djaro (Biological) [Health: 4, Power: 5, Aggression: 2, Supplements: []]
+Dog sharo (Biological) [Health: 4, Power: 8, Aggression: 8, Supplements: [AggressionCatalyst, AggressionCatalyst, PowerCatalyst]]
+Dog djaro (Biological) [Health: 2, Power: 5, Aggression: 2, Supplements: [HealthCatalyst, HealthCatalyst]]
+Dog sharo (Biological) [Health: 4, Power: 8, Aggression: 8, Supplements: [AggressionCatalyst, AggressionCatalyst, PowerCatalyst]]

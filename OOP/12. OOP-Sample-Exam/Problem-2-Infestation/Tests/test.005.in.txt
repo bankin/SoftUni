@@ -1,0 +1,10 @@
+insert Marine Tychus
+insert Dog Doge
+supplement Weapon Tychus
+supplement Weapon Doge
+proceed
+status
+supplement Weapon Tychus
+proceed
+status
+end

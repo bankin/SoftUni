@@ -1,0 +1,7 @@
+insert Marine Raynor
+insert Tank BigMan
+insert Queen Elizabeth
+status
+proceed
+status
+end

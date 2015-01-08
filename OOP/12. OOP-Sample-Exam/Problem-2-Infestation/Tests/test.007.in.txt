@@ -1,0 +1,7 @@
+insert Marine Raynor
+insert Tank BigMan
+insert Parasite Parazitus
+status
+proceed
+status
+end

@@ -1,0 +1,50 @@
+/* Add here your responsive CSS */
+@media(max-width: 780px){
+	.mainHeader img{
+		width:100%;
+	}	
+
+	.mainHeader nav{
+		height: 160px;
+	}
+	.mainHeader nav ul{
+		padding:0px;
+	}
+	.mainHeader nav ul li{
+		width: 100%;
+	}
+
+	.mainHeader nav ul li a{
+		padding-left:0px;
+		padding-right: 0px;
+	}
+
+	.mainHeader nav a:hover,
+	.mainHeader nav a:active, 
+	.mainHeader nav .active a:link, 
+	.mainHeader nav .active a:visited {
+		width: 100%;
+		padding-left:0px;
+		padding-right: 0px;
+	}
+
+	.top-sidebar, .middle-sidebar, .bottom-sidebar{
+		float:none;
+		width:100%;
+		margin-left:0px;
+		padding:5px;
+		margin-top:10px;
+		margin-bottom:5px;
+	}
+
+	.content{
+		float:none;
+		width:100%;
+	}
+
+	.top-sidebar article, 
+	.middle-sidebar article,
+	.bottom-sidebar article{
+		width:97%;
+	}
+}

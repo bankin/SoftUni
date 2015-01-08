@@ -1,0 +1,17 @@
+insert Dog Sharo
+insert Parasite Paro
+proceed
+status
+insert Tank Tanio
+proceed
+status
+insert Queen Murphy
+proceed
+status
+insert Marine Marin
+supplement Weapon Marin 
+supplement AggressionCatalyst Marin
+supplement AggressionCatalyst Marin
+proceed
+status
+end

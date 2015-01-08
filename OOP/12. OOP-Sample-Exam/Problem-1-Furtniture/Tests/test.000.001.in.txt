@@ -1,0 +1,44 @@
+CreateCompany DivansLtd 1234567890
+CreateCompany UniPlus 0987654321
+ShowCompanyCatalog DivansLtd
+CreateTable MyTable wooden 123.4 0.50 0.45 0.65
+CreateChair MyChair leather 99.99 1.20 5 Normal
+CreateChair TroyanDivan leather 111.56 0.80 4 Adjustable
+CreateChair PlovdivStool plastic 80.00 1.00 3 Convertible
+CreateChair ZZComfortableChair leather 111.56 0.80 4 Normal
+ShowCompanyCatalog UniPlus
+AddFurnitureToCompany UniPlus MyTable
+AddFurnitureToCompany UniPlus ZZComfortableChair
+AddFurnitureToCompany UniPlus MyTable
+AddFurnitureToCompany UniPlus TroyanDivan
+ShowCompanyCatalog UniPlus
+ShowCompanyCatalog DivansLtd
+AddFurnitureToCompany DivansLtd MyTable
+AddFurnitureToCompany DivansLtd MyChair
+AddFurnitureToCompany DivansLtd PlovdivStool
+AddFurnitureToCompany DivansLtd TroyanDivan
+ShowCompanyCatalog DivansLtd
+ShowCompanyCatalog UniPlus
+RemoveFurnitureFromCompany UniPlus MyTable
+ShowCompanyCatalog UniPlus
+FindFurnitureFromCompany UniPlus MyTable
+FindFurnitureFromCompany UniPlus TroyanDivan
+RemoveFurnitureFromCompany DivansLtd TroyanDivan
+RemoveFurnitureFromCompany DivansLtd TroyanDivan
+ShowCompanyCatalog DivansLtd
+FindFurnitureFromCompany DivansLtd TroyanDivan
+FindFurnitureFromCompany DivansLtd PlovdivStool
+FindFurnitureFromCompany DivansLtd MyChair
+CreateCompany FurnitureEverywhere 6677889900
+CreateChair PeterChair plastic 0.99 0.67 4 Adjustable
+AddFurnitureToCompany FurnitureEverywhere PeterChair
+SetChairHeight PeterChair 1.11
+FindFurnitureFromCompany FurnitureEverywhere PeterChair
+CreateChair GeorgeChair wooden 1.99 0.95 1 Convertible
+AddFurnitureToCompany FurnitureEverywhere GeorgeChair
+ConvertChair GeorgeChair
+FindFurnitureFromCompany FurnitureEverywhere GeorgeChair
+ConvertChair GeorgeChair
+FindFurnitureFromCompany FurnitureEverywhere GeorgeChair
+ConvertChair GeorgeChair
+ShowCompanyCatalog FurnitureEverywhere

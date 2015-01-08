@@ -1,0 +1,3 @@
+Marine Tychus (Biological) [Health: 10, Power: 14, Aggression: 4, Supplements: [WeaponrySkill, Weapon]]
+Dog Doge (Biological) [Health: 4, Power: 5, Aggression: 2, Supplements: [Weapon]]
+Marine Tychus (Biological) [Health: 10, Power: 24, Aggression: 7, Supplements: [WeaponrySkill, Weapon, Weapon]]

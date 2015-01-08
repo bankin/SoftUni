@@ -1,0 +1,21 @@
+Vacation created.
+Vacation created.
+Excursion created.
+Excursion created.
+Cruise created.
+Cruise created.
+Destination created.
+Destination created.
+Added destination to Do Chikago i nazad.
+Added destination to Do Chikago i nazad.
+ * Vacation: name=Karibska prikazka,start-date=22-Jun-2015,end-date=4-Jul-2015,price=3400.00,location=Caribbean Sea,accommodation=hut
+ * Vacation: name=Havaiska zima,start-date=22-Dec-2014,end-date=4-Jan-2015,price=2600.00,location=Hawaii Islands
+ * Excursion: name=Do Chikago i nazad,start-date=17-Dec-2014,end-date=28-Dec-2014,price=1250.50,transport=bus and cruiser
+ ** Destinations: Destination: location=Chicago,landmark=Niagara Falls;Destination: location=New York,landmark=Statue of Liberty
+ * Excursion: name=Tibet,start-date=17-Dec-2014,end-date=28-Dec-2014,price=1250.50,transport=bus
+ ** Destinations: -
+ * Cruise: name=Transatlantic cruise,start-date=2-Jan-2015,end-date=16-Jan-2015,price=1778.00,transport=cruise liner
+ ** Destinations: -
+ * Cruise: name=Pacific cruise,start-date=3-Mar-2015,end-date=29-Mar-2015,price=1778.00,transport=cruise liner
+ ** Destinations: -
+

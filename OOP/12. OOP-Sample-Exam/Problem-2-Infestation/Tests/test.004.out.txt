@@ -1,0 +1,6 @@
+Marine Raynor (Biological) [Health: 10, Power: 4, Aggression: 10, Supplements: [WeaponrySkill, AggressionCatalyst, AggressionCatalyst, AggressionCatalyst]]
+Dog Spike (Biological) [Health: 3, Power: 5, Aggression: 2, Supplements: [HealthCatalyst]]
+Dog Sharo (Biological) [Health: 4, Power: 5, Aggression: 2, Supplements: []]
+Marine Raynor (Biological) [Health: 10, Power: 4, Aggression: 10, Supplements: [WeaponrySkill, AggressionCatalyst, AggressionCatalyst, AggressionCatalyst]]
+Dog Spike (Biological) [Health: 3, Power: 5, Aggression: 2, Supplements: [HealthCatalyst]]
+Marine Raynor (Biological) [Health: 10, Power: 4, Aggression: 10, Supplements: [WeaponrySkill, AggressionCatalyst, AggressionCatalyst, AggressionCatalyst]]

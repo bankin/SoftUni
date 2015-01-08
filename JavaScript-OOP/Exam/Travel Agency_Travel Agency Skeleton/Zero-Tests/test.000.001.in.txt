@@ -1,0 +1,12 @@
+insert(type=vacation;name=Karibska prikazka;price=3400.00;start-date=22-Jun-2015;end-date=4-Jul-2015;location=Caribbean Sea;accommodation=hut)
+insert(type=vacation;name=Havaiska zima;price=2600.00;start-date=22-Dec-2014;end-date=4-Jan-2015;location=Hawaii Islands)
+insert(type=excursion;name=Do Chikago i nazad;price=1250.50;start-date=17-Dec-2014;end-date=28-Dec-2014;transport=bus and cruiser)
+insert(type=excursion;name=Tibet;price=1250.50;start-date=17-Dec-2014;end-date=28-Dec-2014;transport=bus)
+insert(type=cruise;name=Transatlantic cruise;end-date=16-Jan-2015;start-date=2-Jan-2015;price=1778.00;start-dock=Lisbon) 
+insert(type=cruise;name=Pacific cruise;end-date=29-Mar-2015;start-date=3-Mar-2015;price=1778.00) 
+
+insert(type=destination;location=Chicago;landmark=Niagara Falls)
+insert(type=destination;location=New York;landmark=Statue of Liberty)
+add-destination(name=Do Chikago i nazad;location=Chicago;landmark=Niagara Falls)
+add-destination(name=Do Chikago i nazad;location=New York;landmark=Statue of Liberty)
+list

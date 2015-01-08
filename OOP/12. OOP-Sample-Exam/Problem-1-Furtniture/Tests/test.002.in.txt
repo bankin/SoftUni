@@ -1,0 +1,1 @@
+CreateChair Gosho leather 1.00 2.00 6 Normal

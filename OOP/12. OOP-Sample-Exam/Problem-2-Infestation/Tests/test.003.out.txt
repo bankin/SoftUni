@@ -1,0 +1,3 @@
+Tank BigGuy (Mechanical) [Health: 20, Power: 25, Aggression: 25, Supplements: []]
+Marine SmallGuy (Biological) [Health: 10, Power: 4, Aggression: 1, Supplements: [WeaponrySkill]]
+Tank BigGuy (Mechanical) [Health: 20, Power: 25, Aggression: 25, Supplements: []]

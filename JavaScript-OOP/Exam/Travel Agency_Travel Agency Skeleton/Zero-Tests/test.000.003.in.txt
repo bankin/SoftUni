@@ -1,0 +1,11 @@
+insert(type=vacation;name=nqma location;price=3400.00;start-date=22-Jun-2015;end-date=4-Jul-2015)
+insert(type=vacation;name=nqma cena;start-date=22-Jun-2015;end-date=4-Jul-2015;location=Sofia)
+insert(type=excursion;name=nqma transport;start-date=22-Jun-2015;end-date=4-Jul-2015;price=500)
+
+insert(type=destination;location=nqma landmark)
+add-destination(name=nqma takuv;location=nqma;landmark=nqma)
+remove-destination(name=nqma go;location=nikude;landmark=v spisuka)
+
+insert(type=excursion;name=Alexandrupolis;price=28.00;start-date=7-Aug-2014;end-date=7-Aug-2014;transport=bus)
+insert(type=destination;location=Alexandrupolis;landmark=Alexandrupolis Beach)
+remove-destination(name=Alexandrupolis;location=Alexandrupolis;landmark=Alexandrupolis Beach)

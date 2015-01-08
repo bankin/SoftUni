@@ -1,0 +1,64 @@
+Company DivansLtd created
+Company UniPlus created
+DivansLtd - 1234567890 - no furnitures
+Table MyTable created
+Chair MyChair created
+Chair TroyanDivan created
+Chair PlovdivStool created
+Chair ZZComfortableChair created
+UniPlus - 0987654321 - no furnitures
+Furniture MyTable added to company UniPlus
+Furniture ZZComfortableChair added to company UniPlus
+Furniture MyTable added to company UniPlus
+Furniture TroyanDivan added to company UniPlus
+UniPlus - 0987654321 - 4 furnitures
+Type: AdjustableChair, Model: TroyanDivan, Material: Leather, Price: 111.56, Height: 0.80, Legs: 4
+Type: Chair, Model: ZZComfortableChair, Material: Leather, Price: 111.56, Height: 0.80, Legs: 4
+Type: Table, Model: MyTable, Material: Wooden, Price: 123.4, Height: 0.50, Length: 0.45, Width: 0.65, Area: 0.2925
+Type: Table, Model: MyTable, Material: Wooden, Price: 123.4, Height: 0.50, Length: 0.45, Width: 0.65, Area: 0.2925
+DivansLtd - 1234567890 - no furnitures
+Furniture MyTable added to company DivansLtd
+Furniture MyChair added to company DivansLtd
+Furniture PlovdivStool added to company DivansLtd
+Furniture TroyanDivan added to company DivansLtd
+DivansLtd - 1234567890 - 4 furnitures
+Type: ConvertibleChair, Model: PlovdivStool, Material: Plastic, Price: 80.00, Height: 1.00, Legs: 3, State: Normal
+Type: Chair, Model: MyChair, Material: Leather, Price: 99.99, Height: 1.20, Legs: 5
+Type: AdjustableChair, Model: TroyanDivan, Material: Leather, Price: 111.56, Height: 0.80, Legs: 4
+Type: Table, Model: MyTable, Material: Wooden, Price: 123.4, Height: 0.50, Length: 0.45, Width: 0.65, Area: 0.2925
+UniPlus - 0987654321 - 4 furnitures
+Type: AdjustableChair, Model: TroyanDivan, Material: Leather, Price: 111.56, Height: 0.80, Legs: 4
+Type: Chair, Model: ZZComfortableChair, Material: Leather, Price: 111.56, Height: 0.80, Legs: 4
+Type: Table, Model: MyTable, Material: Wooden, Price: 123.4, Height: 0.50, Length: 0.45, Width: 0.65, Area: 0.2925
+Type: Table, Model: MyTable, Material: Wooden, Price: 123.4, Height: 0.50, Length: 0.45, Width: 0.65, Area: 0.2925
+Furniture MyTable removed from company UniPlus
+UniPlus - 0987654321 - 3 furnitures
+Type: AdjustableChair, Model: TroyanDivan, Material: Leather, Price: 111.56, Height: 0.80, Legs: 4
+Type: Chair, Model: ZZComfortableChair, Material: Leather, Price: 111.56, Height: 0.80, Legs: 4
+Type: Table, Model: MyTable, Material: Wooden, Price: 123.4, Height: 0.50, Length: 0.45, Width: 0.65, Area: 0.2925
+Type: Table, Model: MyTable, Material: Wooden, Price: 123.4, Height: 0.50, Length: 0.45, Width: 0.65, Area: 0.2925
+Type: AdjustableChair, Model: TroyanDivan, Material: Leather, Price: 111.56, Height: 0.80, Legs: 4
+Furniture TroyanDivan removed from company DivansLtd
+Furniture TroyanDivan removed from company DivansLtd
+DivansLtd - 1234567890 - 3 furnitures
+Type: ConvertibleChair, Model: PlovdivStool, Material: Plastic, Price: 80.00, Height: 1.00, Legs: 3, State: Normal
+Type: Chair, Model: MyChair, Material: Leather, Price: 99.99, Height: 1.20, Legs: 5
+Type: Table, Model: MyTable, Material: Wooden, Price: 123.4, Height: 0.50, Length: 0.45, Width: 0.65, Area: 0.2925
+Furniture TroyanDivan not found
+Type: ConvertibleChair, Model: PlovdivStool, Material: Plastic, Price: 80.00, Height: 1.00, Legs: 3, State: Normal
+Type: Chair, Model: MyChair, Material: Leather, Price: 99.99, Height: 1.20, Legs: 5
+Company FurnitureEverywhere created
+Chair PeterChair created
+Furniture PeterChair added to company FurnitureEverywhere
+Chair PeterChair adjusted to height 1.11
+Type: AdjustableChair, Model: PeterChair, Material: Plastic, Price: 0.99, Height: 1.11, Legs: 4
+Chair GeorgeChair created
+Furniture GeorgeChair added to company FurnitureEverywhere
+Chair GeorgeChair converted
+Type: ConvertibleChair, Model: GeorgeChair, Material: Wooden, Price: 1.99, Height: 0.10, Legs: 1, State: Converted
+Chair GeorgeChair converted
+Type: ConvertibleChair, Model: GeorgeChair, Material: Wooden, Price: 1.99, Height: 0.95, Legs: 1, State: Normal
+Chair GeorgeChair converted
+FurnitureEverywhere - 6677889900 - 2 furnitures
+Type: AdjustableChair, Model: PeterChair, Material: Plastic, Price: 0.99, Height: 1.11, Legs: 4
+Type: ConvertibleChair, Model: GeorgeChair, Material: Wooden, Price: 1.99, Height: 0.10, Legs: 1, State: Converted

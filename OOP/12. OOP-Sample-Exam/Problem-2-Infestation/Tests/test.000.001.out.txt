@@ -1,0 +1,6 @@
+Dog Sharo (Biological) [Health: 4, Power: 4, Aggression: 22, Supplements: [InfestationSpores]]
+Tank Tanio (Mechanical) [Health: 20, Power: 25, Aggression: 25, Supplements: []]
+Tank Tanio (Mechanical) [Health: 20, Power: 24, Aggression: 45, Supplements: [InfestationSpores]]
+Queen Murphy (Psionic) [Health: 5, Power: 1, Aggression: 1, Supplements: []]
+Tank Tanio (Mechanical) [Health: 20, Power: 24, Aggression: 45, Supplements: [InfestationSpores, InfestationSpores]]
+Marine Marin (Biological) [Health: 10, Power: 14, Aggression: 10, Supplements: [WeaponrySkill, Weapon, AggressionCatalyst, AggressionCatalyst]]

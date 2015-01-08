@@ -1,0 +1,6 @@
+CreateCompany Pesho 1234567890
+CreateChair Gosho leather 1.00 2.00 6 Adjustable
+AddFurnitureToCompany Pesho Gosho
+ShowCompanyCatalog Pesho
+SetChairHeight Gosho 50.00
+ShowCompanyCatalog Pesho

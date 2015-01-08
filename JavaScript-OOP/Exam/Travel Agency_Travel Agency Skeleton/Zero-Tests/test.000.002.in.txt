@@ -1,0 +1,21 @@
+insert(type=vacation;name=Vakanciq;price=3400.00;start-date=22-Jun-2015;end-date=4-Jul-2015;location=Caribbean Sea;accommodation=hut)
+insert(type=excursion;name=US travel;price=800.80;start-date=12-Jan-2015;end-date=29-Jan-2015;transport=plane)
+insert(type=excursion;name=Dunavska prikazka;price=1350.22;start-date=6-Nov-2014;end-date=24-Dec-2014;transport=motorboat)
+insert(type=cruise;name=Transatlantic cruise;end-date=16-Jan-2015;start-date=2-Jan-2015;price=1778.00;start-dock=Lisbon) 
+
+insert(type=destination;location=Budapest;landmark=Chain Bridge)
+insert(type=destination;location=New York;landmark=Statue of Liberty)
+insert(type=destination;location=California;landmark=Yosemite National Park)
+
+add-destination(name=US travel;location=New York;landmark=Statue of Liberty)
+add-destination(name=US travel;location=California;landmark=Yosemite National Park)
+add-destination(name=Dunavska prikazka;location=Budapest;landmark=Chain Bridge)
+add-destination(name=Transatlantic cruise;location=New York;landmark=Statue of Liberty)
+
+filter(type=excursion;price-min=200;price-max=1000.00)
+
+remove-destination(name=US travel;location=California;landmark=Yosemite National Park)
+delete(type=destination;location=New York;landmark=Statue of Liberty)
+
+filter(type=all;price-min=200;price-max=5000.00)
+

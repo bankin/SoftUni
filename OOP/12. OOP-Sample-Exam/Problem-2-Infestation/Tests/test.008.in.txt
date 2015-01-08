@@ -1,0 +1,15 @@
+insert Marine marine
+insert Dog dog
+insert Queen queen
+insert Parasite parasite
+insert Tank tank
+status
+proceed
+status
+proceed
+status
+proceed
+status
+proceed
+status
+end

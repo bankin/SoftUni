@@ -1,0 +1,6 @@
+E:\Programming\SoftUni\OOP\12. OOP-Sample-Exam\Problem-1-Furtniture\Solution\Furniture-Solution\FurnitureManufacturer\bin\Debug\Furnitures.exe.config
+E:\Programming\SoftUni\OOP\12. OOP-Sample-Exam\Problem-1-Furtniture\Solution\Furniture-Solution\FurnitureManufacturer\bin\Debug\Furnitures.exe
+E:\Programming\SoftUni\OOP\12. OOP-Sample-Exam\Problem-1-Furtniture\Solution\Furniture-Solution\FurnitureManufacturer\bin\Debug\Furnitures.pdb
+E:\Programming\SoftUni\OOP\12. OOP-Sample-Exam\Problem-1-Furtniture\Solution\Furniture-Solution\FurnitureManufacturer\obj\Debug\FurnitureManufacturer.csprojResolveAssemblyReference.cache
+E:\Programming\SoftUni\OOP\12. OOP-Sample-Exam\Problem-1-Furtniture\Solution\Furniture-Solution\FurnitureManufacturer\obj\Debug\Furnitures.exe
+E:\Programming\SoftUni\OOP\12. OOP-Sample-Exam\Problem-1-Furtniture\Solution\Furniture-Solution\FurnitureManufacturer\obj\Debug\Furnitures.pdb

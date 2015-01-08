@@ -1,0 +1,1 @@
+Dog sharo (Biological) [Health: 4, Power: 5, Aggression: 8, Supplements: [AggressionCatalyst, AggressionCatalyst]]

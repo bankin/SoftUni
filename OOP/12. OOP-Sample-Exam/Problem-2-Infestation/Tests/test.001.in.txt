@@ -1,0 +1,7 @@
+insert Dog sharo
+insert Dog djaro
+supplement AggressionCatalyst sharo
+supplement AggressionCatalyst sharo
+proceed
+status
+end

@@ -1,0 +1,6 @@
+insert Tank BigGuy
+insert Marine SmallGuy
+status
+proceed
+status
+end
