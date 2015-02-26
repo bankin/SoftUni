@@ -1,0 +1,5 @@
+E:\Programming\SoftUni\High-Quality-Code\Huy-Phuong\bin\Debug\Huy-Phuong.exe
+E:\Programming\SoftUni\High-Quality-Code\Huy-Phuong\bin\Debug\Huy-Phuong.pdb
+E:\Programming\SoftUni\High-Quality-Code\Huy-Phuong\obj\Debug\Huy-Phuong.csprojResolveAssemblyReference.cache
+E:\Programming\SoftUni\High-Quality-Code\Huy-Phuong\obj\Debug\Huy-Phuong.exe
+E:\Programming\SoftUni\High-Quality-Code\Huy-Phuong\obj\Debug\Huy-Phuong.pdb

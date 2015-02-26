@@ -1,0 +1,7 @@
+E:\Programming\SoftUni\High-Quality-Code\TheatreManagementUnitTests\bin\Debug\TheatreManagementUnitTests.dll
+E:\Programming\SoftUni\High-Quality-Code\TheatreManagementUnitTests\bin\Debug\TheatreManagementUnitTests.pdb
+E:\Programming\SoftUni\High-Quality-Code\TheatreManagementUnitTests\obj\Debug\TheatreManagementUnitTests.csprojResolveAssemblyReference.cache
+E:\Programming\SoftUni\High-Quality-Code\TheatreManagementUnitTests\obj\Debug\TheatreManagementUnitTests.dll
+E:\Programming\SoftUni\High-Quality-Code\TheatreManagementUnitTests\obj\Debug\TheatreManagementUnitTests.pdb
+E:\Programming\SoftUni\High-Quality-Code\TheatreManagementUnitTests\bin\Debug\TheatresManagement.exe
+E:\Programming\SoftUni\High-Quality-Code\TheatreManagementUnitTests\bin\Debug\TheatresManagement.pdb

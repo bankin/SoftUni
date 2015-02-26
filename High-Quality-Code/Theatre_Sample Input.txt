@@ -1,0 +1,35 @@
+PrintAllPerformances()
+PrintAllTheatres()
+AddTheatre(Theatre Sofia)
+AddTheatre(Theatre 199)
+AddTheatre(Theatre Sofia)
+PrintAllTheatres()
+AddTheatre(Ivan Vazov National Theatre)
+AddPerformance(Theatre 199, Duende, 20.01.2015 20:00, 1:30, 14.5)
+AddPerformance(Theatre 199, Bella Donna, 20.01.2015 20:30, 1:00, 12)
+AddPerformance(Theatre 199, Bella Donna, 20.01.2015 21:30, 1:00, 12)
+AddPerformance(Theatre Sofia, Bella Donna, 20.01.2015 19:30, 1:00, 15)
+AddPerformance(Theatre Sofia, Don Juan, 20.01.2015 20:31, 2:00, 14.60)
+AddPerformance(Art Theatre, Don Juan, 28.12.2014 19:30, 1:45, 10)
+AddPerformance(Theatre 199, Frozen, 18.01.2015 10:00, 1:00, 8)
+AddPerformance(Theatre 199, Star Gate, 20.01.2015 22:00, 1:50, 6.45)
+AddPerformance(Theatre 199, Don Juan, 18.01.2015 19:30, 2:00, 14.60)
+AddPerformance(Theatre 199, I Pay, 18.01.2015 18:00, 1:30, 14.60)
+PrintAllPerformances()
+
+
+
+
+
+
+
+
+
+PrintPerformances(Ivan Vazov National Theatre)
+PrintPerformances(Art Theatre)
+PrintPerformances(Theatre 199)
+
+
+
+AddPerformance(Theatre 199, Long Story, 18.01.2015 11:00, 12:00, 100)
+AddPerformance(Theatre 199, Short Story, 18.01.2015 19:40, 0:10, 0.30)

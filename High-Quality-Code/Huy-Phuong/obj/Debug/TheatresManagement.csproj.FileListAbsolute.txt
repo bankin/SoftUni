@@ -1,0 +1,5 @@
+E:\Programming\SoftUni\High-Quality-Code\Huy-Phuong\obj\Debug\TheatresManagement.csprojResolveAssemblyReference.cache
+E:\Programming\SoftUni\High-Quality-Code\Huy-Phuong\bin\Debug\TheatresManagement.exe
+E:\Programming\SoftUni\High-Quality-Code\Huy-Phuong\bin\Debug\TheatresManagement.pdb
+E:\Programming\SoftUni\High-Quality-Code\Huy-Phuong\obj\Debug\TheatresManagement.exe
+E:\Programming\SoftUni\High-Quality-Code\Huy-Phuong\obj\Debug\TheatresManagement.pdb
